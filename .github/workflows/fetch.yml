@@ -32,7 +32,7 @@ jobs:
       - name: Deploy
         uses: EndBug/add-and-commit@v4
         with:
-          add: 'hangars.json'
+          add: 'hangars.*json'
           author_name: 'London Borough of Hackney'
           author_email: 'marekventur+hackney-bike-hangars@gmail.com'
           message: 'Update'
