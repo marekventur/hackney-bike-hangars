@@ -4,7 +4,7 @@ on:
   schedule:
     - cron: '0 8 * * *'
 jobs:
-  build-and-deploy:
+  fetch:
     runs-on: ubuntu-latest
     steps:
       - name: Checkout
