@@ -9,6 +9,13 @@ data_json = json.loads(data)
 with open("hangars.json", "w") as f:
   f.write(json.dumps(data_json, indent=2))
 
+def waiting_list_to_color(count):
+  if (count == 0):
+    return "#9CF168" # green
+  if (count < 10):
+    return "#F7EA4A"
+  return "#E6696E"
+
 features = []
 for hangar in data_json["hangers"].values():
   features.append({
@@ -25,7 +32,10 @@ for hangar in data_json["hangers"].values():
       "endOfLife": hangar["end_of_life"],
       "class": hangar["hanger_type"]["class"],
       "costPerYear": hangar["hanger_type"]["cost"]["Per Year"],
-      "waitingList": hangar["waitingList"]
+      "waitingList": hangar["waitingList"],
+      "marker-size": "small",
+      "marker-symbol": "bicycle",
+      "marker-color": waiting_list_to_color(hangar["waitingList"])
     }
   })
 
