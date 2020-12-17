@@ -248,7 +248,7 @@
         "endOfLife": "24/06/2030",
         "class": "Residential",
         "costPerYear": "42.000",
-        "waitingList": 2,
+        "waitingList": 3,
         "marker-size": "small",
         "marker-symbol": "bicycle",
         "marker-color": "#F7EA4A"
@@ -3491,10 +3491,10 @@
         "endOfLife": "25/06/2030",
         "class": "Residential",
         "costPerYear": "45.000",
-        "waitingList": 0,
+        "waitingList": 1,
         "marker-size": "small",
         "marker-symbol": "bicycle",
-        "marker-color": "#9CF168"
+        "marker-color": "#F7EA4A"
       }
     },
     {
@@ -6987,7 +6987,7 @@
         "endOfLife": "13/03/2026",
         "class": "Estate",
         "costPerYear": "30.000",
-        "waitingList": 2,
+        "waitingList": 1,
         "marker-size": "small",
         "marker-symbol": "bicycle",
         "marker-color": "#F7EA4A"
@@ -9218,7 +9218,7 @@
         "endOfLife": "02/01/2030",
         "class": "Residential",
         "costPerYear": "42.000",
-        "waitingList": 7,
+        "waitingList": 6,
         "marker-size": "small",
         "marker-symbol": "bicycle",
         "marker-color": "#F7EA4A"
@@ -10552,7 +10552,7 @@
         "endOfLife": "27/06/2030",
         "class": "Residential",
         "costPerYear": "42.000",
-        "waitingList": 6,
+        "waitingList": 7,
         "marker-size": "small",
         "marker-symbol": "bicycle",
         "marker-color": "#F7EA4A"
