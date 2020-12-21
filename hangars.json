@@ -10576,14 +10576,14 @@
       "street": "BROOKE ROAD",
       "maintenance_key": "H405413",
       "long": "-0.06451815467897859",
-      "waitingList": 51,
+      "waitingList": 50,
       "end_of_life": "19/06/2028",
       "hanger_id": "Bikehangar_1377",
       "hanger_type_id": "R_RES_STD_Zone_R",
       "created": "2019-03-26 23:54:20.0",
       "lat": "51.56074884219248",
       "waiting_list": {
-        "waiting_count": 51
+        "waiting_count": 50
       }
     },
     "Bikehangar_1376": {
@@ -10936,14 +10936,14 @@
       "street": "NORTHFIELD ROAD",
       "maintenance_key": "TBC",
       "long": "-0.07726901948657883",
-      "waitingList": 0,
+      "waitingList": 1,
       "end_of_life": "28/06/2030",
       "hanger_id": "Bikehangar_1583",
       "hanger_type_id": "R_RES_STD_Zone_X",
       "created": "2020-06-28 00:40:00.0",
       "lat": "51.57298386751194",
       "waiting_list": {
-        "waiting_count": 0
+        "waiting_count": 1
       }
     },
     "Bikehangar_1477": {
@@ -11411,7 +11411,7 @@
         }
       },
       "end_of_life": "23/06/2030",
-      "waitingList": 9,
+      "waitingList": 10,
       "spaces": "6",
       "hanger_type_id": "R_RES_STD_Zone_D",
       "hanger_id": "Bikehangar_1467",
@@ -11421,7 +11421,7 @@
       "long": "-0.06451890544633443",
       "lat": "51.54733786862212",
       "waiting_list": {
-        "waiting_count": 9
+        "waiting_count": 10
       }
     },
     "Bikehangar_1466": {
