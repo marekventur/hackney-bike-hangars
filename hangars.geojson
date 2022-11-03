@@ -179,7 +179,7 @@
         "endOfLife": "01/06/2031",
         "class": "Residential",
         "costPerYear": "43.500",
-        "waitingList": 26,
+        "waitingList": 27,
         "marker-size": "small",
         "marker-symbol": "bicycle",
         "marker-color": "#E6696E"
@@ -984,7 +984,7 @@
         "endOfLife": "02/07/2029",
         "class": "Residential",
         "costPerYear": "43.500",
-        "waitingList": 19,
+        "waitingList": 18,
         "marker-size": "small",
         "marker-symbol": "bicycle",
         "marker-color": "#E6696E"
@@ -1145,7 +1145,7 @@
         "endOfLife": "27/05/2024",
         "class": "Residential",
         "costPerYear": "43.500",
-        "waitingList": 68,
+        "waitingList": 67,
         "marker-size": "small",
         "marker-symbol": "bicycle",
         "marker-color": "#E6696E"
@@ -1950,7 +1950,7 @@
         "endOfLife": "09/12/2031",
         "class": "Residential",
         "costPerYear": "43.500",
-        "waitingList": 24,
+        "waitingList": 25,
         "marker-size": "small",
         "marker-symbol": "bicycle",
         "marker-color": "#E6696E"
@@ -3905,7 +3905,7 @@
         "endOfLife": "22/06/2030",
         "class": "Residential",
         "costPerYear": "43.500",
-        "waitingList": 32,
+        "waitingList": 31,
         "marker-size": "small",
         "marker-symbol": "bicycle",
         "marker-color": "#E6696E"
@@ -4273,7 +4273,7 @@
         "endOfLife": "22/08/2025",
         "class": "Residential",
         "costPerYear": "43.500",
-        "waitingList": 29,
+        "waitingList": 28,
         "marker-size": "small",
         "marker-symbol": "bicycle",
         "marker-color": "#E6696E"
@@ -4507,6 +4507,29 @@
         "marker-size": "small",
         "marker-symbol": "bicycle",
         "marker-color": "#E6696E"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.06143768544708905,
+          51.53602885722111
+        ]
+      },
+      "properties": {
+        "id": "Bikehangar_1698",
+        "spaces": "6",
+        "street": "ADA STREET",
+        "created": "2022-11-02 12:36:38.0",
+        "endOfLife": "02/11/2032",
+        "class": "Estate",
+        "costPerYear": "31.000",
+        "waitingList": 0,
+        "marker-size": "small",
+        "marker-symbol": "bicycle",
+        "marker-color": "#9CF168"
       }
     },
     {
@@ -5377,7 +5400,7 @@
         "endOfLife": "27/06/2030",
         "class": "Residential",
         "costPerYear": "43.500",
-        "waitingList": 18,
+        "waitingList": 19,
         "marker-size": "small",
         "marker-symbol": "bicycle",
         "marker-color": "#E6696E"
@@ -5710,29 +5733,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -0.05663553323552151,
-          51.56358904937542
-        ]
-      },
-      "properties": {
-        "id": "Bikehangar_1569",
-        "spaces": "6",
-        "street": "ALCESTER CRESCENT",
-        "created": "2020-06-25 22:57:35.0",
-        "endOfLife": "25/06/2030",
-        "class": "Residential",
-        "costPerYear": "43.500",
-        "waitingList": 16,
-        "marker-size": "small",
-        "marker-symbol": "bicycle",
-        "marker-color": "#E6696E"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           -0.0579665031656873,
           51.55300619043413
         ]
@@ -5746,6 +5746,29 @@
         "class": "Residential",
         "costPerYear": "43.500",
         "waitingList": 44,
+        "marker-size": "small",
+        "marker-symbol": "bicycle",
+        "marker-color": "#E6696E"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.05663553323552151,
+          51.56358904937542
+        ]
+      },
+      "properties": {
+        "id": "Bikehangar_1569",
+        "spaces": "6",
+        "street": "ALCESTER CRESCENT",
+        "created": "2020-06-25 22:57:35.0",
+        "endOfLife": "25/06/2030",
+        "class": "Residential",
+        "costPerYear": "43.500",
+        "waitingList": 16,
         "marker-size": "small",
         "marker-symbol": "bicycle",
         "marker-color": "#E6696E"
@@ -6067,7 +6090,7 @@
         "endOfLife": "19/12/2025",
         "class": "Residential",
         "costPerYear": "43.500",
-        "waitingList": 39,
+        "waitingList": 40,
         "marker-size": "small",
         "marker-symbol": "bicycle",
         "marker-color": "#E6696E"
@@ -6780,7 +6803,7 @@
         "endOfLife": "16/12/2025",
         "class": "Residential",
         "costPerYear": "43.500",
-        "waitingList": 45,
+        "waitingList": 44,
         "marker-size": "small",
         "marker-symbol": "bicycle",
         "marker-color": "#E6696E"
@@ -6872,7 +6895,7 @@
         "endOfLife": "08/02/2026",
         "class": "Estate",
         "costPerYear": "31.000",
-        "waitingList": 4,
+        "waitingList": 5,
         "marker-size": "small",
         "marker-symbol": "bicycle",
         "marker-color": "#F7EA4A"
@@ -6918,7 +6941,7 @@
         "endOfLife": "06/02/2026",
         "class": "Estate",
         "costPerYear": "31.000",
-        "waitingList": 1,
+        "waitingList": 2,
         "marker-size": "small",
         "marker-symbol": "bicycle",
         "marker-color": "#F7EA4A"
@@ -7079,7 +7102,7 @@
         "endOfLife": "05/03/2026",
         "class": "Estate",
         "costPerYear": "31.000",
-        "waitingList": 12,
+        "waitingList": 13,
         "marker-size": "small",
         "marker-symbol": "bicycle",
         "marker-color": "#E6696E"
@@ -7125,7 +7148,7 @@
         "endOfLife": "26/12/2024",
         "class": "Residential",
         "costPerYear": "43.500",
-        "waitingList": 43,
+        "waitingList": 42,
         "marker-size": "small",
         "marker-symbol": "bicycle",
         "marker-color": "#E6696E"
@@ -7941,6 +7964,29 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -0.0828286753036025,
+          51.52828701196847
+        ]
+      },
+      "properties": {
+        "id": "Bikehangar_1700",
+        "spaces": "6",
+        "street": "PITFIELD STREET",
+        "created": "2022-11-02 12:32:13.0",
+        "endOfLife": "02/11/2032",
+        "class": "Estate",
+        "costPerYear": "31.000",
+        "waitingList": 0,
+        "marker-size": "small",
+        "marker-symbol": "bicycle",
+        "marker-color": "#9CF168"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -0.0796104,
           51.5558624
         ]
@@ -8003,6 +8049,29 @@
         "marker-size": "small",
         "marker-symbol": "bicycle",
         "marker-color": "#E6696E"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.04561074623438799,
+          51.54576573932857
+        ]
+      },
+      "properties": {
+        "id": "Bikehangar_1701",
+        "spaces": "6",
+        "street": "FLANDERS WAY",
+        "created": "2022-11-02 12:27:02.0",
+        "endOfLife": "02/11/2032",
+        "class": "Estate",
+        "costPerYear": "31.000",
+        "waitingList": 0,
+        "marker-size": "small",
+        "marker-symbol": "bicycle",
+        "marker-color": "#9CF168"
       }
     },
     {
@@ -9310,7 +9379,7 @@
         "endOfLife": "21/08/2027",
         "class": "Estate",
         "costPerYear": "31.000",
-        "waitingList": 5,
+        "waitingList": 6,
         "marker-size": "small",
         "marker-symbol": "bicycle",
         "marker-color": "#F7EA4A"
@@ -9356,7 +9425,7 @@
         "endOfLife": "21/08/2027",
         "class": "Estate",
         "costPerYear": "31.000",
-        "waitingList": 10,
+        "waitingList": 11,
         "marker-size": "small",
         "marker-symbol": "bicycle",
         "marker-color": "#E6696E"
@@ -9655,7 +9724,7 @@
         "endOfLife": "14/02/2027",
         "class": "Estate",
         "costPerYear": "31.000",
-        "waitingList": 13,
+        "waitingList": 14,
         "marker-size": "small",
         "marker-symbol": "bicycle",
         "marker-color": "#E6696E"
@@ -9954,7 +10023,7 @@
         "endOfLife": "27/08/2027",
         "class": "Estate",
         "costPerYear": "31.000",
-        "waitingList": 6,
+        "waitingList": 5,
         "marker-size": "small",
         "marker-symbol": "bicycle",
         "marker-color": "#F7EA4A"
@@ -10299,7 +10368,7 @@
         "endOfLife": "26/12/2026",
         "class": "Residential",
         "costPerYear": "43.500",
-        "waitingList": 42,
+        "waitingList": 43,
         "marker-size": "small",
         "marker-symbol": "bicycle",
         "marker-color": "#E6696E"
@@ -11955,7 +12024,7 @@
         "endOfLife": "11/09/2029",
         "class": "Residential",
         "costPerYear": "43.500",
-        "waitingList": 32,
+        "waitingList": 31,
         "marker-size": "small",
         "marker-symbol": "bicycle",
         "marker-color": "#E6696E"
@@ -13266,7 +13335,7 @@
         "endOfLife": "22/06/2030",
         "class": "Residential",
         "costPerYear": "43.500",
-        "waitingList": 20,
+        "waitingList": 19,
         "marker-size": "small",
         "marker-symbol": "bicycle",
         "marker-color": "#E6696E"
@@ -13312,7 +13381,7 @@
         "endOfLife": "22/06/2030",
         "class": "Residential",
         "costPerYear": "43.500",
-        "waitingList": 37,
+        "waitingList": 38,
         "marker-size": "small",
         "marker-symbol": "bicycle",
         "marker-color": "#E6696E"
@@ -13622,6 +13691,29 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -0.08292670536062019,
+          51.52890943984872
+        ]
+      },
+      "properties": {
+        "id": "Bikehangar_1699",
+        "spaces": "6",
+        "street": "PITFIELD STREET",
+        "created": "2022-11-02 12:34:33.0",
+        "endOfLife": "02/11/2032",
+        "class": "Estate",
+        "costPerYear": "31.000",
+        "waitingList": 0,
+        "marker-size": "small",
+        "marker-symbol": "bicycle",
+        "marker-color": "#9CF168"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -0.0658838489186735,
           51.5523531622446
         ]
@@ -13841,7 +13933,7 @@
         "endOfLife": "26/06/2030",
         "class": "Residential",
         "costPerYear": "43.500",
-        "waitingList": 13,
+        "waitingList": 14,
         "marker-size": "small",
         "marker-symbol": "bicycle",
         "marker-color": "#E6696E"
@@ -15382,7 +15474,7 @@
         "endOfLife": "25/06/2028",
         "class": "Residential",
         "costPerYear": "43.500",
-        "waitingList": 40,
+        "waitingList": 41,
         "marker-size": "small",
         "marker-symbol": "bicycle",
         "marker-color": "#E6696E"
