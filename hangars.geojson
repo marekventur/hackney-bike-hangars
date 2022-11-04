@@ -662,7 +662,7 @@
         "endOfLife": "27/05/2031",
         "class": "Residential",
         "costPerYear": "43.500",
-        "waitingList": 14,
+        "waitingList": 13,
         "marker-size": "small",
         "marker-symbol": "bicycle",
         "marker-color": "#E6696E"
@@ -708,7 +708,7 @@
         "endOfLife": "27/05/2031",
         "class": "Residential",
         "costPerYear": "43.500",
-        "waitingList": 21,
+        "waitingList": 20,
         "marker-size": "small",
         "marker-symbol": "bicycle",
         "marker-color": "#E6696E"
@@ -2364,7 +2364,7 @@
         "endOfLife": "09/12/2031",
         "class": "Residential",
         "costPerYear": "43.500",
-        "waitingList": 20,
+        "waitingList": 21,
         "marker-size": "small",
         "marker-symbol": "bicycle",
         "marker-color": "#E6696E"
@@ -4077,29 +4077,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -0.07629371805441565,
-          51.55979853280115
-        ]
-      },
-      "properties": {
-        "id": "Bikehangar_226",
-        "spaces": "6",
-        "street": "LAVERS ROAD",
-        "created": "2019-03-26 23:54:22.0",
-        "endOfLife": "23/01/2025",
-        "class": "Residential",
-        "costPerYear": "42.000",
-        "waitingList": 40,
-        "marker-size": "small",
-        "marker-symbol": "bicycle",
-        "marker-color": "#E6696E"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           -0.09100144814721034,
           51.532177589818986
         ]
@@ -4116,6 +4093,29 @@
         "marker-size": "small",
         "marker-symbol": "bicycle",
         "marker-color": "#F7EA4A"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.07629371805441565,
+          51.55979853280115
+        ]
+      },
+      "properties": {
+        "id": "Bikehangar_226",
+        "spaces": "6",
+        "street": "LAVERS ROAD",
+        "created": "2019-03-26 23:54:22.0",
+        "endOfLife": "23/01/2025",
+        "class": "Residential",
+        "costPerYear": "42.000",
+        "waitingList": 40,
+        "marker-size": "small",
+        "marker-symbol": "bicycle",
+        "marker-color": "#E6696E"
       }
     },
     {
@@ -4204,7 +4204,7 @@
         "endOfLife": "07/03/2032",
         "class": "Residential",
         "costPerYear": "43.500",
-        "waitingList": 26,
+        "waitingList": 27,
         "marker-size": "small",
         "marker-symbol": "bicycle",
         "marker-color": "#E6696E"
@@ -5572,29 +5572,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -0.06802809278988775,
-          51.56335294571508
-        ]
-      },
-      "properties": {
-        "id": "Bikehangar_1568",
-        "spaces": "6",
-        "street": "OSBALDESTON ROAD",
-        "created": "2020-06-25 21:33:19.0",
-        "endOfLife": "25/06/2030",
-        "class": "Residential",
-        "costPerYear": "43.500",
-        "waitingList": 26,
-        "marker-size": "small",
-        "marker-symbol": "bicycle",
-        "marker-color": "#E6696E"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           -0.0684966,
           51.5520568
         ]
@@ -5618,19 +5595,19 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -0.07175199359542717,
-          51.56733470718183
+          -0.06802809278988775,
+          51.56335294571508
         ]
       },
       "properties": {
-        "id": "Bikehangar_1567",
+        "id": "Bikehangar_1568",
         "spaces": "6",
-        "street": "LAMPARD GROVE",
-        "created": "2020-06-25 21:30:00.0",
+        "street": "OSBALDESTON ROAD",
+        "created": "2020-06-25 21:33:19.0",
         "endOfLife": "25/06/2030",
         "class": "Residential",
         "costPerYear": "43.500",
-        "waitingList": 20,
+        "waitingList": 26,
         "marker-size": "small",
         "marker-symbol": "bicycle",
         "marker-color": "#E6696E"
@@ -5654,6 +5631,29 @@
         "class": "Residential",
         "costPerYear": "43.500",
         "waitingList": 32,
+        "marker-size": "small",
+        "marker-symbol": "bicycle",
+        "marker-color": "#E6696E"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.07175199359542717,
+          51.56733470718183
+        ]
+      },
+      "properties": {
+        "id": "Bikehangar_1567",
+        "spaces": "6",
+        "street": "LAMPARD GROVE",
+        "created": "2020-06-25 21:30:00.0",
+        "endOfLife": "25/06/2030",
+        "class": "Residential",
+        "costPerYear": "43.500",
+        "waitingList": 20,
         "marker-size": "small",
         "marker-symbol": "bicycle",
         "marker-color": "#E6696E"
@@ -5871,29 +5871,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -0.08396971734933345,
-          51.56625532060016
-        ]
-      },
-      "properties": {
-        "id": "Bikehangar_1679",
-        "spaces": "6",
-        "street": "MANOR ROAD",
-        "created": "2022-02-23 16:23:54.0",
-        "endOfLife": "23/02/2032",
-        "class": "Estate",
-        "costPerYear": "31.000",
-        "waitingList": 3,
-        "marker-size": "small",
-        "marker-symbol": "bicycle",
-        "marker-color": "#F7EA4A"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           -0.040597916,
           51.55084514
         ]
@@ -5910,6 +5887,29 @@
         "marker-size": "small",
         "marker-symbol": "bicycle",
         "marker-color": "#E6696E"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.08396971734933345,
+          51.56625532060016
+        ]
+      },
+      "properties": {
+        "id": "Bikehangar_1679",
+        "spaces": "6",
+        "street": "MANOR ROAD",
+        "created": "2022-02-23 16:23:54.0",
+        "endOfLife": "23/02/2032",
+        "class": "Estate",
+        "costPerYear": "31.000",
+        "waitingList": 3,
+        "marker-size": "small",
+        "marker-symbol": "bicycle",
+        "marker-color": "#F7EA4A"
       }
     },
     {
@@ -6895,7 +6895,7 @@
         "endOfLife": "08/02/2026",
         "class": "Estate",
         "costPerYear": "31.000",
-        "waitingList": 5,
+        "waitingList": 4,
         "marker-size": "small",
         "marker-symbol": "bicycle",
         "marker-color": "#F7EA4A"
@@ -6964,7 +6964,7 @@
         "endOfLife": "21/12/2025",
         "class": "Residential",
         "costPerYear": "43.500",
-        "waitingList": 51,
+        "waitingList": 52,
         "marker-size": "small",
         "marker-symbol": "bicycle",
         "marker-color": "#E6696E"
@@ -7378,7 +7378,7 @@
         "endOfLife": "06/02/2026",
         "class": "Estate",
         "costPerYear": "31.000",
-        "waitingList": 6,
+        "waitingList": 5,
         "marker-size": "small",
         "marker-symbol": "bicycle",
         "marker-color": "#F7EA4A"
@@ -7700,7 +7700,7 @@
         "endOfLife": "30/07/2030",
         "class": "Residential",
         "costPerYear": "43.500",
-        "waitingList": 12,
+        "waitingList": 11,
         "marker-size": "small",
         "marker-symbol": "bicycle",
         "marker-color": "#E6696E"
@@ -8033,6 +8033,29 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -0.07302782605992775,
+          51.5311544153617
+        ]
+      },
+      "properties": {
+        "id": "Bikehangar_1702",
+        "spaces": "6",
+        "street": "WEYMOUTH TERRACE",
+        "created": "2022-11-03 16:42:09.0",
+        "endOfLife": "03/11/2032",
+        "class": "Estate",
+        "costPerYear": "31.000",
+        "waitingList": 0,
+        "marker-size": "small",
+        "marker-symbol": "bicycle",
+        "marker-color": "#9CF168"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -0.0784351,
           51.5588916
         ]
@@ -8102,6 +8125,29 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -0.04256269230052112,
+          51.54668019234316
+        ]
+      },
+      "properties": {
+        "id": "Bikehangar_1704",
+        "spaces": "6",
+        "street": "BERGER ROAD",
+        "created": "2022-11-03 16:30:13.0",
+        "endOfLife": "03/11/2032",
+        "class": "Estate",
+        "costPerYear": "31.000",
+        "waitingList": 0,
+        "marker-size": "small",
+        "marker-symbol": "bicycle",
+        "marker-color": "#9CF168"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -0.05601124010235026,
           51.55534159596726
         ]
@@ -8118,6 +8164,75 @@
         "marker-size": "small",
         "marker-symbol": "bicycle",
         "marker-color": "#E6696E"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.07426650528978485,
+          51.53088353002326
+        ]
+      },
+      "properties": {
+        "id": "Bikehangar_1703",
+        "spaces": "6",
+        "street": "WEYMOUTH TERRACE",
+        "created": "2022-11-03 16:34:00.0",
+        "endOfLife": "03/11/2032",
+        "class": "Estate",
+        "costPerYear": "31.000",
+        "waitingList": 0,
+        "marker-size": "small",
+        "marker-symbol": "bicycle",
+        "marker-color": "#9CF168"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.044036758797602715,
+          51.545439934603365
+        ]
+      },
+      "properties": {
+        "id": "Bikehangar_1706",
+        "spaces": "6",
+        "street": "ANDERSON ROAD",
+        "created": "2022-11-03 16:45:49.0",
+        "endOfLife": "03/11/2032",
+        "class": "Estate",
+        "costPerYear": "31.000",
+        "waitingList": 0,
+        "marker-size": "small",
+        "marker-symbol": "bicycle",
+        "marker-color": "#9CF168"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.04420097735703621,
+          51.54552629550781
+        ]
+      },
+      "properties": {
+        "id": "Bikehangar_1705",
+        "spaces": "6",
+        "street": "ANDERSON ROAD",
+        "created": "2022-11-03 16:26:30.0",
+        "endOfLife": "03/11/2032",
+        "class": "Estate",
+        "costPerYear": "31.000",
+        "waitingList": 0,
+        "marker-size": "small",
+        "marker-symbol": "bicycle",
+        "marker-color": "#9CF168"
       }
     },
     {
@@ -8210,6 +8325,29 @@
         "marker-size": "small",
         "marker-symbol": "bicycle",
         "marker-color": "#E6696E"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.06121113440906356,
+          51.53684765915713
+        ]
+      },
+      "properties": {
+        "id": "Bikehangar_1707",
+        "spaces": "6",
+        "street": "DUNCAN ROAD",
+        "created": "2022-11-03 16:52:29.0",
+        "endOfLife": "03/11/2032",
+        "class": "Estate",
+        "costPerYear": "31.000",
+        "waitingList": 0,
+        "marker-size": "small",
+        "marker-symbol": "bicycle",
+        "marker-color": "#9CF168"
       }
     },
     {
@@ -9448,7 +9586,7 @@
         "endOfLife": "14/02/2027",
         "class": "Estate",
         "costPerYear": "31.000",
-        "waitingList": 3,
+        "waitingList": 2,
         "marker-size": "small",
         "marker-symbol": "bicycle",
         "marker-color": "#F7EA4A"
@@ -10414,10 +10552,10 @@
         "endOfLife": "05/09/2027",
         "class": "Estate",
         "costPerYear": "31.000",
-        "waitingList": 9,
+        "waitingList": 10,
         "marker-size": "small",
         "marker-symbol": "bicycle",
-        "marker-color": "#F7EA4A"
+        "marker-color": "#E6696E"
       }
     },
     {
@@ -10736,7 +10874,7 @@
         "endOfLife": "26/08/2027",
         "class": "Estate",
         "costPerYear": "31.000",
-        "waitingList": 15,
+        "waitingList": 14,
         "marker-size": "small",
         "marker-symbol": "bicycle",
         "marker-color": "#E6696E"
@@ -10759,7 +10897,7 @@
         "endOfLife": "05/09/2027",
         "class": "Estate",
         "costPerYear": "31.000",
-        "waitingList": 2,
+        "waitingList": 3,
         "marker-size": "small",
         "marker-symbol": "bicycle",
         "marker-color": "#F7EA4A"
@@ -10828,7 +10966,7 @@
         "endOfLife": "22/12/2026",
         "class": "Residential",
         "costPerYear": "43.500",
-        "waitingList": 51,
+        "waitingList": 50,
         "marker-size": "small",
         "marker-symbol": "bicycle",
         "marker-color": "#E6696E"
@@ -12323,7 +12461,7 @@
         "endOfLife": "28/06/2028",
         "class": "Residential",
         "costPerYear": "43.500",
-        "waitingList": 43,
+        "waitingList": 42,
         "marker-size": "small",
         "marker-symbol": "bicycle",
         "marker-color": "#E6696E"
@@ -12530,10 +12668,10 @@
         "endOfLife": "22/03/2031",
         "class": "Estate",
         "costPerYear": "31.000",
-        "waitingList": 0,
+        "waitingList": 1,
         "marker-size": "small",
         "marker-symbol": "bicycle",
-        "marker-color": "#9CF168"
+        "marker-color": "#F7EA4A"
       }
     },
     {
@@ -14600,7 +14738,7 @@
         "endOfLife": "25/12/2026",
         "class": "Residential",
         "costPerYear": "43.500",
-        "waitingList": 45,
+        "waitingList": 44,
         "marker-size": "small",
         "marker-symbol": "bicycle",
         "marker-color": "#E6696E"
