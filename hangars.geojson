@@ -386,7 +386,7 @@
         "endOfLife": "11/10/2025",
         "class": "Estate",
         "costPerYear": "31.000",
-        "waitingList": 12,
+        "waitingList": 11,
         "marker-size": "small",
         "marker-symbol": "bicycle",
         "marker-color": "#E6696E"
@@ -2525,7 +2525,7 @@
         "endOfLife": "27/05/2031",
         "class": "Residential",
         "costPerYear": "43.500",
-        "waitingList": 40,
+        "waitingList": 41,
         "marker-size": "small",
         "marker-symbol": "bicycle",
         "marker-color": "#E6696E"
@@ -4572,7 +4572,7 @@
         "endOfLife": "25/06/2030",
         "class": "Residential",
         "costPerYear": "43.500",
-        "waitingList": 22,
+        "waitingList": 23,
         "marker-size": "small",
         "marker-symbol": "bicycle",
         "marker-color": "#E6696E"
@@ -4710,7 +4710,7 @@
         "endOfLife": "25/06/2030",
         "class": "Residential",
         "costPerYear": "43.500",
-        "waitingList": 21,
+        "waitingList": 22,
         "marker-size": "small",
         "marker-symbol": "bicycle",
         "marker-color": "#E6696E"
@@ -7746,7 +7746,7 @@
         "endOfLife": "15/11/2026",
         "class": "Estate",
         "costPerYear": "31.000",
-        "waitingList": 2,
+        "waitingList": 3,
         "marker-size": "small",
         "marker-symbol": "bicycle",
         "marker-color": "#F7EA4A"
@@ -8677,14 +8677,14 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -0.06108382036566695,
-          51.53676382415921
+          -0.061215131207347895,
+          51.536855392544226
         ]
       },
       "properties": {
         "id": "Bikehangar_1708",
         "spaces": "6",
-        "street": "SHEEP LANE",
+        "street": "DUNCAN ROAD",
         "created": "2022-11-04 10:50:21.0",
         "endOfLife": "04/11/2032",
         "class": "Estate",
@@ -8746,14 +8746,14 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -0.06121113440906356,
-          51.53684765915713
+          -0.05980072765754585,
+          51.5369881919101
         ]
       },
       "properties": {
         "id": "Bikehangar_1707",
         "spaces": "6",
-        "street": "DUNCAN ROAD",
+        "street": "SHEEP LANE",
         "created": "2022-11-03 16:52:29.0",
         "endOfLife": "03/11/2032",
         "class": "Estate",
@@ -10322,7 +10322,7 @@
         "endOfLife": "08/03/2026",
         "class": "Estate",
         "costPerYear": "31.000",
-        "waitingList": 16,
+        "waitingList": 15,
         "marker-size": "small",
         "marker-symbol": "bicycle",
         "marker-color": "#E6696E"
@@ -11242,7 +11242,7 @@
         "endOfLife": "28/08/2027",
         "class": "Estate",
         "costPerYear": "31.000",
-        "waitingList": 2,
+        "waitingList": 3,
         "marker-size": "small",
         "marker-symbol": "bicycle",
         "marker-color": "#F7EA4A"
@@ -11357,7 +11357,7 @@
         "endOfLife": "11/09/2029",
         "class": "Residential",
         "costPerYear": "43.500",
-        "waitingList": 12,
+        "waitingList": 13,
         "marker-size": "small",
         "marker-symbol": "bicycle",
         "marker-color": "#E6696E"
@@ -12047,7 +12047,7 @@
         "endOfLife": "26/03/2027",
         "class": "Residential",
         "costPerYear": "43.500",
-        "waitingList": 19,
+        "waitingList": 18,
         "marker-size": "small",
         "marker-symbol": "bicycle",
         "marker-color": "#E6696E"
@@ -12277,7 +12277,7 @@
         "endOfLife": "21/12/2026",
         "class": "Residential",
         "costPerYear": "43.500",
-        "waitingList": 33,
+        "waitingList": 34,
         "marker-size": "small",
         "marker-symbol": "bicycle",
         "marker-color": "#E6696E"
@@ -13197,7 +13197,7 @@
         "endOfLife": "23/06/2030",
         "class": "Residential",
         "costPerYear": "43.500",
-        "waitingList": 30,
+        "waitingList": 31,
         "marker-size": "small",
         "marker-symbol": "bicycle",
         "marker-color": "#E6696E"
@@ -13381,7 +13381,7 @@
         "endOfLife": "23/06/2030",
         "class": "Residential",
         "costPerYear": "43.500",
-        "waitingList": 40,
+        "waitingList": 41,
         "marker-size": "small",
         "marker-symbol": "bicycle",
         "marker-color": "#E6696E"
@@ -13473,7 +13473,7 @@
         "endOfLife": "23/06/2030",
         "class": "Residential",
         "costPerYear": "43.500",
-        "waitingList": 45,
+        "waitingList": 46,
         "marker-size": "small",
         "marker-symbol": "bicycle",
         "marker-color": "#E6696E"
@@ -13772,7 +13772,7 @@
         "endOfLife": "22/06/2030",
         "class": "Residential",
         "costPerYear": "43.500",
-        "waitingList": 28,
+        "waitingList": 29,
         "marker-size": "small",
         "marker-symbol": "bicycle",
         "marker-color": "#E6696E"
@@ -14324,7 +14324,7 @@
         "endOfLife": "27/01/2028",
         "class": "Estate",
         "costPerYear": "31.000",
-        "waitingList": 2,
+        "waitingList": 3,
         "marker-size": "small",
         "marker-symbol": "bicycle",
         "marker-color": "#F7EA4A"
