@@ -662,7 +662,7 @@
         "endOfLife": "27/05/2031",
         "class": "Residential",
         "costPerYear": "43.500",
-        "waitingList": 27,
+        "waitingList": 28,
         "marker-size": "small",
         "marker-symbol": "bicycle",
         "marker-color": "#E6696E"
@@ -708,7 +708,7 @@
         "endOfLife": "27/05/2031",
         "class": "Residential",
         "costPerYear": "43.500",
-        "waitingList": 28,
+        "waitingList": 29,
         "marker-size": "small",
         "marker-symbol": "bicycle",
         "marker-color": "#E6696E"
@@ -3031,7 +3031,7 @@
         "endOfLife": "23/06/2030",
         "class": "Residential",
         "costPerYear": "43.500",
-        "waitingList": 40,
+        "waitingList": 41,
         "marker-size": "small",
         "marker-symbol": "bicycle",
         "marker-color": "#E6696E"
@@ -3767,7 +3767,7 @@
         "endOfLife": "27/06/2030",
         "class": "Residential",
         "costPerYear": "43.500",
-        "waitingList": 18,
+        "waitingList": 17,
         "marker-size": "small",
         "marker-symbol": "bicycle",
         "marker-color": "#E6696E"
@@ -4365,7 +4365,7 @@
         "endOfLife": "27/06/2030",
         "class": "Residential",
         "costPerYear": "43.500",
-        "waitingList": 26,
+        "waitingList": 25,
         "marker-size": "small",
         "marker-symbol": "bicycle",
         "marker-color": "#E6696E"
@@ -7516,7 +7516,7 @@
         "endOfLife": "18/04/2033",
         "class": "Estate",
         "costPerYear": "31.000",
-        "waitingList": 6,
+        "waitingList": 7,
         "marker-size": "small",
         "marker-symbol": "bicycle",
         "marker-color": "#F7EA4A"
@@ -7585,7 +7585,7 @@
         "endOfLife": "18/04/2033",
         "class": "Estate",
         "costPerYear": "31.000",
-        "waitingList": 6,
+        "waitingList": 7,
         "marker-size": "small",
         "marker-symbol": "bicycle",
         "marker-color": "#F7EA4A"
@@ -8677,14 +8677,14 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -0.061215131207347895,
-          51.536855392544226
+          -0.05980759888728926,
+          51.53696749583278
         ]
       },
       "properties": {
         "id": "Bikehangar_1708",
         "spaces": "6",
-        "street": "DUNCAN ROAD",
+        "street": "SHEEP LANE",
         "created": "2022-11-04 10:50:21.0",
         "endOfLife": "04/11/2032",
         "class": "Estate",
@@ -8746,14 +8746,14 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -0.05980072765754585,
-          51.5369881919101
+          -0.06119099132087058,
+          51.53682202525604
         ]
       },
       "properties": {
         "id": "Bikehangar_1707",
         "spaces": "6",
-        "street": "SHEEP LANE",
+        "street": "DUNCAN ROAD",
         "created": "2022-11-03 16:52:29.0",
         "endOfLife": "03/11/2032",
         "class": "Estate",
@@ -12760,7 +12760,7 @@
         "endOfLife": "11/09/2029",
         "class": "Residential",
         "costPerYear": "43.500",
-        "waitingList": 21,
+        "waitingList": 20,
         "marker-size": "small",
         "marker-symbol": "bicycle",
         "marker-color": "#E6696E"
@@ -12898,7 +12898,7 @@
         "endOfLife": "28/06/2028",
         "class": "Residential",
         "costPerYear": "43.500",
-        "waitingList": 39,
+        "waitingList": 40,
         "marker-size": "small",
         "marker-symbol": "bicycle",
         "marker-color": "#E6696E"
@@ -13105,7 +13105,7 @@
         "endOfLife": "22/03/2031",
         "class": "Estate",
         "costPerYear": "31.000",
-        "waitingList": 3,
+        "waitingList": 4,
         "marker-size": "small",
         "marker-symbol": "bicycle",
         "marker-color": "#F7EA4A"
@@ -15198,7 +15198,7 @@
         "endOfLife": "25/12/2026",
         "class": "Residential",
         "costPerYear": "43.500",
-        "waitingList": 33,
+        "waitingList": 32,
         "marker-size": "small",
         "marker-symbol": "bicycle",
         "marker-color": "#E6696E"
