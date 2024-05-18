@@ -52,6 +52,374 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -0.04549473962680395,
+          51.55578255824818
+        ]
+      },
+      "properties": {
+        "id": "Cyclehoop_2253",
+        "spaces": "6",
+        "street": "ELDERFIELD ROAD",
+        "created": "2024-05-17 15:45:49.0",
+        "endOfLife": "17/05/2034",
+        "class": "Residential",
+        "costPerYear": "51.000",
+        "waitingList": 0,
+        "marker-size": "small",
+        "marker-symbol": "bicycle",
+        "marker-color": "#9CF168"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.04769296617834584,
+          51.55224183222762
+        ]
+      },
+      "properties": {
+        "id": "Cyclehoop_2252",
+        "spaces": "6",
+        "street": "DUNLACE ROAD",
+        "created": "2024-05-17 15:43:10.0",
+        "endOfLife": "17/05/2034",
+        "class": "Residential",
+        "costPerYear": "51.000",
+        "waitingList": 0,
+        "marker-size": "small",
+        "marker-symbol": "bicycle",
+        "marker-color": "#9CF168"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.04027811362840339,
+          51.55023710684512
+        ]
+      },
+      "properties": {
+        "id": "Cyclehoop_2251",
+        "spaces": "6",
+        "street": "GLYN ROAD",
+        "created": "2024-05-17 15:40:42.0",
+        "endOfLife": "17/05/2034",
+        "class": "Residential",
+        "costPerYear": "51.000",
+        "waitingList": 0,
+        "marker-size": "small",
+        "marker-symbol": "bicycle",
+        "marker-color": "#9CF168"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.04190189140561529,
+          51.55406069625025
+        ]
+      },
+      "properties": {
+        "id": "Cyclehoop_2250",
+        "spaces": "6",
+        "street": "GLYN ROAD",
+        "created": "2024-05-17 15:38:13.0",
+        "endOfLife": "17/05/2034",
+        "class": "Residential",
+        "costPerYear": "51.000",
+        "waitingList": 0,
+        "marker-size": "small",
+        "marker-symbol": "bicycle",
+        "marker-color": "#9CF168"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.06866451070823132,
+          51.56375378838902
+        ]
+      },
+      "properties": {
+        "id": "Cyclehoop_2258",
+        "spaces": "6",
+        "street": "KYVERDALE ROAD",
+        "created": "2024-05-17 16:15:59.0",
+        "endOfLife": "17/05/2034",
+        "class": "Residential",
+        "costPerYear": "51.000",
+        "waitingList": 0,
+        "marker-size": "small",
+        "marker-symbol": "bicycle",
+        "marker-color": "#9CF168"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.06563843197696428,
+          51.56708544065759
+        ]
+      },
+      "properties": {
+        "id": "Cyclehoop_2259",
+        "spaces": "6",
+        "street": "FORBURG ROAD",
+        "created": "2024-05-17 16:18:17.0",
+        "endOfLife": "17/05/2034",
+        "class": "Residential",
+        "costPerYear": "51.000",
+        "waitingList": 0,
+        "marker-size": "small",
+        "marker-symbol": "bicycle",
+        "marker-color": "#9CF168"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.0847624242771019,
+          51.557018933447324
+        ]
+      },
+      "properties": {
+        "id": "Cyclehoop_2256",
+        "spaces": "6",
+        "street": "CARYSFORT ROAD",
+        "created": "2024-05-17 16:07:04.0",
+        "endOfLife": "17/05/2034",
+        "class": "Residential",
+        "costPerYear": "51.000",
+        "waitingList": 0,
+        "marker-size": "small",
+        "marker-symbol": "bicycle",
+        "marker-color": "#9CF168"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.0815151970672332,
+          51.55654867478634
+        ]
+      },
+      "properties": {
+        "id": "Cyclehoop_2257",
+        "spaces": "6",
+        "street": "SHAKSPEARE WALK",
+        "created": "2024-05-17 16:10:35.0",
+        "endOfLife": "17/05/2034",
+        "class": "Residential",
+        "costPerYear": "51.000",
+        "waitingList": 0,
+        "marker-size": "small",
+        "marker-symbol": "bicycle",
+        "marker-color": "#9CF168"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.04933207226611103,
+          51.55380393582385
+        ]
+      },
+      "properties": {
+        "id": "Cyclehoop_2254",
+        "spaces": "6",
+        "street": "POWERSCROFT ROAD",
+        "created": "2024-05-17 15:47:18.0",
+        "endOfLife": "17/05/2034",
+        "class": "Residential",
+        "costPerYear": "51.000",
+        "waitingList": 0,
+        "marker-size": "small",
+        "marker-symbol": "bicycle",
+        "marker-color": "#9CF168"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.042042397135304554,
+          51.55374877010084
+        ]
+      },
+      "properties": {
+        "id": "Cyclehoop_2255",
+        "spaces": "6",
+        "street": "GLENARM ROAD",
+        "created": "2024-05-17 16:04:49.0",
+        "endOfLife": "17/05/2034",
+        "class": "Residential",
+        "costPerYear": "51.000",
+        "waitingList": 0,
+        "marker-size": "small",
+        "marker-symbol": "bicycle",
+        "marker-color": "#9CF168"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.10009273015018039,
+          51.562790572669854
+        ]
+      },
+      "properties": {
+        "id": "Cyclehoop_2262",
+        "spaces": "6",
+        "street": "FINSBURY PARK ROAD",
+        "created": "2024-05-17 16:26:32.0",
+        "endOfLife": "17/05/2034",
+        "class": "Residential",
+        "costPerYear": "51.000",
+        "waitingList": 0,
+        "marker-size": "small",
+        "marker-symbol": "bicycle",
+        "marker-color": "#9CF168"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.061778807159384996,
+          51.56155120876974
+        ]
+      },
+      "properties": {
+        "id": "Cyclehoop_2261",
+        "spaces": "6",
+        "street": "REIGHTON ROAD",
+        "created": "2024-05-17 16:24:50.0",
+        "endOfLife": "17/05/2034",
+        "class": "Residential",
+        "costPerYear": "51.000",
+        "waitingList": 0,
+        "marker-size": "small",
+        "marker-symbol": "bicycle",
+        "marker-color": "#9CF168"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.06363793540182883,
+          51.54510263835016
+        ]
+      },
+      "properties": {
+        "id": "Cyclehoop_2264",
+        "spaces": "6",
+        "street": "WILTON WAY",
+        "created": "2024-05-17 16:31:47.0",
+        "endOfLife": "17/05/2034",
+        "class": "Residential",
+        "costPerYear": "51.000",
+        "waitingList": 0,
+        "marker-size": "small",
+        "marker-symbol": "bicycle",
+        "marker-color": "#9CF168"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.07559578678473144,
+          51.56517751958796
+        ]
+      },
+      "properties": {
+        "id": "Cyclehoop_2263",
+        "spaces": "6",
+        "street": "LISTRIA PARK",
+        "created": "2024-05-17 16:27:51.0",
+        "endOfLife": "17/05/2034",
+        "class": "Residential",
+        "costPerYear": "51.000",
+        "waitingList": 0,
+        "marker-size": "small",
+        "marker-symbol": "bicycle",
+        "marker-color": "#9CF168"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.04992210412430609,
+          51.56303906416983
+        ]
+      },
+      "properties": {
+        "id": "Cyclehoop_2260",
+        "spaces": "6",
+        "street": "SOUTHWOLD ROAD",
+        "created": "2024-05-17 16:21:01.0",
+        "endOfLife": "17/05/2034",
+        "class": "Residential",
+        "costPerYear": "51.000",
+        "waitingList": 0,
+        "marker-size": "small",
+        "marker-symbol": "bicycle",
+        "marker-color": "#9CF168"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.06512772524766319,
+          51.53949909084699
+        ]
+      },
+      "properties": {
+        "id": "Cyclehoop_2265",
+        "spaces": "6",
+        "street": "ALBION DRIVE",
+        "created": "2024-05-17 16:33:01.0",
+        "endOfLife": "17/05/2034",
+        "class": "Residential",
+        "costPerYear": "51.000",
+        "waitingList": 0,
+        "marker-size": "small",
+        "marker-symbol": "bicycle",
+        "marker-color": "#9CF168"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -0.06339881185363083,
           51.56953431356024
         ]
@@ -133,7 +501,7 @@
         "endOfLife": "02/07/2029",
         "class": "Residential",
         "costPerYear": "51.000",
-        "waitingList": 16,
+        "waitingList": 15,
         "marker-size": "small",
         "marker-symbol": "bicycle",
         "marker-color": "#E6696E"
@@ -225,7 +593,7 @@
         "endOfLife": "23/06/2030",
         "class": "Residential",
         "costPerYear": "51.000",
-        "waitingList": 32,
+        "waitingList": 31,
         "marker-size": "small",
         "marker-symbol": "bicycle",
         "marker-color": "#E6696E"
@@ -443,29 +811,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -0.10046573984425322,
-          51.56385978443839
-        ]
-      },
-      "properties": {
-        "id": "Bikehangar_223",
-        "spaces": "6",
-        "street": "WILBERFORCE ROAD",
-        "created": "2019-03-26 23:54:24.0",
-        "endOfLife": "03/01/2025",
-        "class": "Residential",
-        "costPerYear": "51.000",
-        "waitingList": 43,
-        "marker-size": "small",
-        "marker-symbol": "bicycle",
-        "marker-color": "#E6696E"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           -0.08869990951319551,
           51.5287337616451
         ]
@@ -482,6 +827,29 @@
         "marker-size": "small",
         "marker-symbol": "bicycle",
         "marker-color": "#F7EA4A"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.10046573984425322,
+          51.56385978443839
+        ]
+      },
+      "properties": {
+        "id": "Bikehangar_223",
+        "spaces": "6",
+        "street": "WILBERFORCE ROAD",
+        "created": "2019-03-26 23:54:24.0",
+        "endOfLife": "03/01/2025",
+        "class": "Residential",
+        "costPerYear": "51.000",
+        "waitingList": 43,
+        "marker-size": "small",
+        "marker-symbol": "bicycle",
+        "marker-color": "#E6696E"
       }
     },
     {
@@ -673,6 +1041,29 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -0.050283130124171294,
+          51.539037231977034
+        ]
+      },
+      "properties": {
+        "id": "Cyclehoop_2235",
+        "spaces": "6",
+        "street": "AINSWORTH ROAD",
+        "created": "2024-05-17 13:03:14.0",
+        "endOfLife": "17/05/2034",
+        "class": "Residential",
+        "costPerYear": "51.000",
+        "waitingList": 0,
+        "marker-size": "small",
+        "marker-symbol": "bicycle",
+        "marker-color": "#9CF168"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -0.054813623,
           51.5378207
         ]
@@ -712,6 +1103,190 @@
         "marker-size": "small",
         "marker-symbol": "bicycle",
         "marker-color": "#E6696E"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.06816637467787245,
+          51.54870681222343
+        ]
+      },
+      "properties": {
+        "id": "Cyclehoop_2234",
+        "spaces": "6",
+        "street": "CECILIA ROAD",
+        "created": "2024-05-17 12:54:12.0",
+        "endOfLife": "17/05/2034",
+        "class": "Residential",
+        "costPerYear": "51.000",
+        "waitingList": 0,
+        "marker-size": "small",
+        "marker-symbol": "bicycle",
+        "marker-color": "#9CF168"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.07687605244359474,
+          51.55169849920924
+        ]
+      },
+      "properties": {
+        "id": "Cyclehoop_2239",
+        "spaces": "6",
+        "street": "PELLERIN ROAD",
+        "created": "2024-05-17 13:21:38.0",
+        "endOfLife": "17/05/2034",
+        "class": "Residential",
+        "costPerYear": "51.000",
+        "waitingList": 0,
+        "marker-size": "small",
+        "marker-symbol": "bicycle",
+        "marker-color": "#9CF168"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.07356311726198328,
+          51.5558859009127
+        ]
+      },
+      "properties": {
+        "id": "Cyclehoop_2238",
+        "spaces": "6",
+        "street": "FOULDEN ROAD",
+        "created": "2024-05-17 13:16:50.0",
+        "endOfLife": "17/05/2034",
+        "class": "Residential",
+        "costPerYear": "51.000",
+        "waitingList": 0,
+        "marker-size": "small",
+        "marker-symbol": "bicycle",
+        "marker-color": "#9CF168"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.07592407966683368,
+          51.553365544422405
+        ]
+      },
+      "properties": {
+        "id": "Cyclehoop_2237",
+        "spaces": "6",
+        "street": "BELGRADE ROAD",
+        "created": "2024-05-17 13:11:24.0",
+        "endOfLife": "17/05/2034",
+        "class": "Residential",
+        "costPerYear": "51.000",
+        "waitingList": 0,
+        "marker-size": "small",
+        "marker-symbol": "bicycle",
+        "marker-color": "#9CF168"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.06346022971584375,
+          51.54534207749313
+        ]
+      },
+      "properties": {
+        "id": "Cyclehoop_2236",
+        "spaces": "6",
+        "street": "WILTON WAY",
+        "created": "2024-05-17 13:07:52.0",
+        "endOfLife": "17/05/2034",
+        "class": "Residential",
+        "costPerYear": "51.000",
+        "waitingList": 0,
+        "marker-size": "small",
+        "marker-symbol": "bicycle",
+        "marker-color": "#9CF168"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.07559942411802467,
+          51.555850773447645
+        ]
+      },
+      "properties": {
+        "id": "Cyclehoop_2240",
+        "spaces": "6",
+        "street": "WALFORD ROAD",
+        "created": "2024-05-17 13:24:44.0",
+        "endOfLife": "17/05/2034",
+        "class": "Residential",
+        "costPerYear": "51.000",
+        "waitingList": 0,
+        "marker-size": "small",
+        "marker-symbol": "bicycle",
+        "marker-color": "#9CF168"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.07846700827266773,
+          51.55944734515657
+        ]
+      },
+      "properties": {
+        "id": "Cyclehoop_2241",
+        "spaces": "6",
+        "street": "NEVILL ROAD",
+        "created": "2024-05-17 13:29:04.0",
+        "endOfLife": "17/05/2034",
+        "class": "Residential",
+        "costPerYear": "51.000",
+        "waitingList": 0,
+        "marker-size": "small",
+        "marker-symbol": "bicycle",
+        "marker-color": "#9CF168"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.05523188979901761,
+          51.55044314531477
+        ]
+      },
+      "properties": {
+        "id": "Cyclehoop_2242",
+        "spaces": "6",
+        "street": "CLARENCE ROAD",
+        "created": "2024-05-17 13:37:29.0",
+        "endOfLife": "17/05/2034",
+        "class": "Residential",
+        "costPerYear": "51.000",
+        "waitingList": 0,
+        "marker-size": "small",
+        "marker-symbol": "bicycle",
+        "marker-color": "#9CF168"
       }
     },
     {
@@ -788,6 +1363,29 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -0.07895120256009136,
+          51.54287511183995
+        ]
+      },
+      "properties": {
+        "id": "Cyclehoop_2244",
+        "spaces": "6",
+        "street": "MORTIMER ROAD",
+        "created": "2024-05-17 13:43:52.0",
+        "endOfLife": "17/05/2034",
+        "class": "Residential",
+        "costPerYear": "51.000",
+        "waitingList": 0,
+        "marker-size": "small",
+        "marker-symbol": "bicycle",
+        "marker-color": "#9CF168"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -0.0539427,
           51.5502683
         ]
@@ -800,10 +1398,33 @@
         "endOfLife": "01/02/2025",
         "class": "Residential",
         "costPerYear": "51.000",
-        "waitingList": 35,
+        "waitingList": 34,
         "marker-size": "small",
         "marker-symbol": "bicycle",
         "marker-color": "#E6696E"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.0775455751645211,
+          51.54011383912331
+        ]
+      },
+      "properties": {
+        "id": "Cyclehoop_2243",
+        "spaces": "6",
+        "street": "ENFIELD ROAD",
+        "created": "2024-05-17 13:40:43.0",
+        "endOfLife": "17/05/2034",
+        "class": "Residential",
+        "costPerYear": "51.000",
+        "waitingList": 0,
+        "marker-size": "small",
+        "marker-symbol": "bicycle",
+        "marker-color": "#9CF168"
       }
     },
     {
@@ -834,6 +1455,29 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -0.05263500236443974,
+          51.5565027244468
+        ]
+      },
+      "properties": {
+        "id": "Cyclehoop_2246",
+        "spaces": "6",
+        "street": "MILDENHALL ROAD",
+        "created": "2024-05-17 13:54:18.0",
+        "endOfLife": "17/05/2034",
+        "class": "Residential",
+        "costPerYear": "51.000",
+        "waitingList": 0,
+        "marker-size": "small",
+        "marker-symbol": "bicycle",
+        "marker-color": "#9CF168"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -0.0579665031656873,
           51.55300619043413
         ]
@@ -850,6 +1494,75 @@
         "marker-size": "small",
         "marker-symbol": "bicycle",
         "marker-color": "#E6696E"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.05802771414818153,
+          51.54107207899989
+        ]
+      },
+      "properties": {
+        "id": "Cyclehoop_2245",
+        "spaces": "6",
+        "street": "MARTELLO TERRACE",
+        "created": "2024-05-17 13:52:14.0",
+        "endOfLife": "17/05/2034",
+        "class": "Residential",
+        "costPerYear": "51.000",
+        "waitingList": 0,
+        "marker-size": "small",
+        "marker-symbol": "bicycle",
+        "marker-color": "#9CF168"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.037674875622002446,
+          51.551492178563024
+        ]
+      },
+      "properties": {
+        "id": "Cyclehoop_2248",
+        "spaces": "6",
+        "street": "ASHENDEN ROAD",
+        "created": "2024-05-17 15:29:02.0",
+        "endOfLife": "17/05/2034",
+        "class": "Residential",
+        "costPerYear": "51.000",
+        "waitingList": 0,
+        "marker-size": "small",
+        "marker-symbol": "bicycle",
+        "marker-color": "#9CF168"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.05210773038334082,
+          51.55604694085133
+        ]
+      },
+      "properties": {
+        "id": "Cyclehoop_2247",
+        "spaces": "6",
+        "street": "MILLFIELDS ROAD",
+        "created": "2024-05-17 13:57:24.0",
+        "endOfLife": "17/05/2034",
+        "class": "Residential",
+        "costPerYear": "51.000",
+        "waitingList": 0,
+        "marker-size": "small",
+        "marker-symbol": "bicycle",
+        "marker-color": "#9CF168"
       }
     },
     {
@@ -880,6 +1593,29 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -0.04483119553376014,
+          51.555225972150026
+        ]
+      },
+      "properties": {
+        "id": "Cyclehoop_2249",
+        "spaces": "6",
+        "street": "LOCKHURST STREET",
+        "created": "2024-05-17 15:34:35.0",
+        "endOfLife": "17/05/2034",
+        "class": "Residential",
+        "costPerYear": "51.000",
+        "waitingList": 0,
+        "marker-size": "small",
+        "marker-symbol": "bicycle",
+        "marker-color": "#9CF168"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -0.053928460332485884,
           51.55574580756743
         ]
@@ -893,6 +1629,29 @@
         "class": "Residential",
         "costPerYear": "51.000",
         "waitingList": 39,
+        "marker-size": "small",
+        "marker-symbol": "bicycle",
+        "marker-color": "#E6696E"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.047825047780349905,
+          51.556696509137396
+        ]
+      },
+      "properties": {
+        "id": "Bikehangar_465",
+        "spaces": "6",
+        "street": "Colenso Road",
+        "created": "2019-03-26 23:54:28.0",
+        "endOfLife": "15/12/2025",
+        "class": "Residential",
+        "costPerYear": "51.000",
+        "waitingList": 25,
         "marker-size": "small",
         "marker-symbol": "bicycle",
         "marker-color": "#E6696E"
@@ -926,16 +1685,16 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -0.047825047780349905,
-          51.556696509137396
+          -0.049895899354737594,
+          51.55253579054735
         ]
       },
       "properties": {
-        "id": "Bikehangar_465",
+        "id": "Bikehangar_468",
         "spaces": "6",
-        "street": "Colenso Road",
+        "street": "GLENARM ROAD",
         "created": "2019-03-26 23:54:28.0",
-        "endOfLife": "15/12/2025",
+        "endOfLife": "19/12/2025",
         "class": "Residential",
         "costPerYear": "51.000",
         "waitingList": 25,
@@ -972,19 +1731,19 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -0.049895899354737594,
-          51.55253579054735
+          -0.0476142,
+          51.5559162
         ]
       },
       "properties": {
-        "id": "Bikehangar_468",
+        "id": "Bikehangar_467",
         "spaces": "6",
-        "street": "GLENARM ROAD",
+        "street": "Mayola Road",
         "created": "2019-03-26 23:54:28.0",
-        "endOfLife": "19/12/2025",
+        "endOfLife": "15/12/2025",
         "class": "Residential",
         "costPerYear": "51.000",
-        "waitingList": 25,
+        "waitingList": 29,
         "marker-size": "small",
         "marker-symbol": "bicycle",
         "marker-color": "#E6696E"
@@ -1011,29 +1770,6 @@
         "marker-size": "small",
         "marker-symbol": "bicycle",
         "marker-color": "#F7EA4A"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -0.0476142,
-          51.5559162
-        ]
-      },
-      "properties": {
-        "id": "Bikehangar_467",
-        "spaces": "6",
-        "street": "Mayola Road",
-        "created": "2019-03-26 23:54:28.0",
-        "endOfLife": "15/12/2025",
-        "class": "Residential",
-        "costPerYear": "51.000",
-        "waitingList": 29,
-        "marker-size": "small",
-        "marker-symbol": "bicycle",
-        "marker-color": "#E6696E"
       }
     },
     {
@@ -1605,7 +2341,7 @@
         "endOfLife": "16/12/2025",
         "class": "Residential",
         "costPerYear": "51.000",
-        "waitingList": 25,
+        "waitingList": 24,
         "marker-size": "small",
         "marker-symbol": "bicycle",
         "marker-color": "#E6696E"
@@ -1904,7 +2640,7 @@
         "endOfLife": "01/09/2025",
         "class": "Residential",
         "costPerYear": "51.000",
-        "waitingList": 23,
+        "waitingList": 22,
         "marker-size": "small",
         "marker-symbol": "bicycle",
         "marker-color": "#E6696E"
@@ -2030,29 +2766,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -0.0779114,
-          51.5532167
-        ]
-      },
-      "properties": {
-        "id": "Bikehangar_420",
-        "spaces": "6",
-        "street": "Belgrade Road",
-        "created": "2019-03-26 23:54:21.0",
-        "endOfLife": "26/12/2025",
-        "class": "Residential",
-        "costPerYear": "51.000",
-        "waitingList": 56,
-        "marker-size": "small",
-        "marker-symbol": "bicycle",
-        "marker-color": "#E6696E"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           -0.03392813511962345,
           51.55160244182474
         ]
@@ -2069,6 +2782,29 @@
         "marker-size": "small",
         "marker-symbol": "bicycle",
         "marker-color": "#9CF168"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.0779114,
+          51.5532167
+        ]
+      },
+      "properties": {
+        "id": "Bikehangar_420",
+        "spaces": "6",
+        "street": "Belgrade Road",
+        "created": "2019-03-26 23:54:21.0",
+        "endOfLife": "26/12/2025",
+        "class": "Residential",
+        "costPerYear": "51.000",
+        "waitingList": 56,
+        "marker-size": "small",
+        "marker-symbol": "bicycle",
+        "marker-color": "#E6696E"
       }
     },
     {
@@ -2456,7 +3192,7 @@
         "endOfLife": "22/12/2025",
         "class": "Residential",
         "costPerYear": "51.000",
-        "waitingList": 36,
+        "waitingList": 35,
         "marker-size": "small",
         "marker-symbol": "bicycle",
         "marker-color": "#E6696E"
@@ -2640,7 +3376,7 @@
         "endOfLife": "12/12/2025",
         "class": "Residential",
         "costPerYear": "51.000",
-        "waitingList": 16,
+        "waitingList": 17,
         "marker-size": "small",
         "marker-symbol": "bicycle",
         "marker-color": "#E6696E"
@@ -3353,7 +4089,7 @@
         "endOfLife": "29/04/2023",
         "class": "Residential",
         "costPerYear": "51.000",
-        "waitingList": 39,
+        "waitingList": 38,
         "marker-size": "small",
         "marker-symbol": "bicycle",
         "marker-color": "#E6696E"
@@ -3399,7 +4135,7 @@
         "endOfLife": "13/12/2025",
         "class": "Residential",
         "costPerYear": "51.000",
-        "waitingList": 7,
+        "waitingList": 6,
         "marker-size": "small",
         "marker-symbol": "bicycle",
         "marker-color": "#F7EA4A"
@@ -3445,7 +4181,7 @@
         "endOfLife": "22/12/2025",
         "class": "Residential",
         "costPerYear": "51.000",
-        "waitingList": 42,
+        "waitingList": 43,
         "marker-size": "small",
         "marker-symbol": "bicycle",
         "marker-color": "#E6696E"
@@ -3560,7 +4296,7 @@
         "endOfLife": "14/12/2025",
         "class": "Residential",
         "costPerYear": "51.000",
-        "waitingList": 11,
+        "waitingList": 12,
         "marker-size": "small",
         "marker-symbol": "bicycle",
         "marker-color": "#E6696E"
@@ -3652,7 +4388,7 @@
         "endOfLife": "12/12/2033",
         "class": "Residential",
         "costPerYear": "51.000",
-        "waitingList": 7,
+        "waitingList": 8,
         "marker-size": "small",
         "marker-symbol": "bicycle",
         "marker-color": "#F7EA4A"
@@ -3813,7 +4549,7 @@
         "endOfLife": "12/12/2033",
         "class": "Residential",
         "costPerYear": "51.000",
-        "waitingList": 6,
+        "waitingList": 7,
         "marker-size": "small",
         "marker-symbol": "bicycle",
         "marker-color": "#F7EA4A"
@@ -3916,29 +4652,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -0.07568757208824195,
-          51.55644743501293
-        ]
-      },
-      "properties": {
-        "id": "Cyclehangar_2138",
-        "spaces": "6",
-        "street": "BEATTY ROAD",
-        "created": "2023-12-12 12:48:42.0",
-        "endOfLife": "12/12/2033",
-        "class": "Residential",
-        "costPerYear": "51.000",
-        "waitingList": 20,
-        "marker-size": "small",
-        "marker-symbol": "bicycle",
-        "marker-color": "#E6696E"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           -0.04148109725636573,
           51.54817239152197
         ]
@@ -3962,19 +4675,19 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -0.07501162319141486,
-          51.56093170692799
+          -0.07568757208824195,
+          51.55644743501293
         ]
       },
       "properties": {
-        "id": "Cyclehangar_2139",
+        "id": "Cyclehangar_2138",
         "spaces": "6",
-        "street": "DYNEVOR ROAD",
-        "created": "2023-12-12 12:53:18.0",
+        "street": "BEATTY ROAD",
+        "created": "2023-12-12 12:48:42.0",
         "endOfLife": "12/12/2033",
         "class": "Residential",
         "costPerYear": "51.000",
-        "waitingList": 20,
+        "waitingList": 21,
         "marker-size": "small",
         "marker-symbol": "bicycle",
         "marker-color": "#E6696E"
@@ -4008,6 +4721,29 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -0.07501162319141486,
+          51.56093170692799
+        ]
+      },
+      "properties": {
+        "id": "Cyclehangar_2139",
+        "spaces": "6",
+        "street": "DYNEVOR ROAD",
+        "created": "2023-12-12 12:53:18.0",
+        "endOfLife": "12/12/2033",
+        "class": "Residential",
+        "costPerYear": "51.000",
+        "waitingList": 20,
+        "marker-size": "small",
+        "marker-symbol": "bicycle",
+        "marker-color": "#E6696E"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -0.04221797,
           51.5455811
         ]
@@ -4021,29 +4757,6 @@
         "class": "Estate",
         "costPerYear": "36.500",
         "waitingList": 1,
-        "marker-size": "small",
-        "marker-symbol": "bicycle",
-        "marker-color": "#F7EA4A"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -0.0960080748658072,
-          51.563473823538686
-        ]
-      },
-      "properties": {
-        "id": "Cyclehangar_2137",
-        "spaces": "6",
-        "street": "DIGBY CRESCENT",
-        "created": "2023-12-12 12:46:44.0",
-        "endOfLife": "12/12/2033",
-        "class": "Residential",
-        "costPerYear": "51.000",
-        "waitingList": 6,
         "marker-size": "small",
         "marker-symbol": "bicycle",
         "marker-color": "#F7EA4A"
@@ -4070,6 +4783,29 @@
         "marker-size": "small",
         "marker-symbol": "bicycle",
         "marker-color": "#9CF168"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.0960080748658072,
+          51.563473823538686
+        ]
+      },
+      "properties": {
+        "id": "Cyclehangar_2137",
+        "spaces": "6",
+        "street": "DIGBY CRESCENT",
+        "created": "2023-12-12 12:46:44.0",
+        "endOfLife": "12/12/2033",
+        "class": "Residential",
+        "costPerYear": "51.000",
+        "waitingList": 5,
+        "marker-size": "small",
+        "marker-symbol": "bicycle",
+        "marker-color": "#F7EA4A"
       }
     },
     {
@@ -4146,29 +4882,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -0.09848314015002302,
-          51.56734847606248
-        ]
-      },
-      "properties": {
-        "id": "Cyclehangar_2130",
-        "spaces": "6",
-        "street": "ADOLPHUS ROAD",
-        "created": "2023-12-12 12:27:45.0",
-        "endOfLife": "12/12/2033",
-        "class": "Residential",
-        "costPerYear": "51.000",
-        "waitingList": 11,
-        "marker-size": "small",
-        "marker-symbol": "bicycle",
-        "marker-color": "#E6696E"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           -0.08020198840856096,
           51.53842464161778
         ]
@@ -4185,6 +4898,29 @@
         "marker-size": "small",
         "marker-symbol": "bicycle",
         "marker-color": "#9CF168"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.09848314015002302,
+          51.56734847606248
+        ]
+      },
+      "properties": {
+        "id": "Cyclehangar_2130",
+        "spaces": "6",
+        "street": "ADOLPHUS ROAD",
+        "created": "2023-12-12 12:27:45.0",
+        "endOfLife": "12/12/2033",
+        "class": "Residential",
+        "costPerYear": "51.000",
+        "waitingList": 11,
+        "marker-size": "small",
+        "marker-symbol": "bicycle",
+        "marker-color": "#E6696E"
       }
     },
     {
@@ -4261,29 +4997,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -0.0696091583334919,
-          51.55666640637128
-        ]
-      },
-      "properties": {
-        "id": "Cyclehangar_2135",
-        "spaces": "6",
-        "street": "SYDNER ROAD",
-        "created": "2023-12-12 12:42:49.0",
-        "endOfLife": "12/12/2033",
-        "class": "Residential",
-        "costPerYear": "51.000",
-        "waitingList": 8,
-        "marker-size": "small",
-        "marker-symbol": "bicycle",
-        "marker-color": "#F7EA4A"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           -0.067183971,
           51.54105047
         ]
@@ -4300,6 +5013,29 @@
         "marker-size": "small",
         "marker-symbol": "bicycle",
         "marker-color": "#E6696E"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.0696091583334919,
+          51.55666640637128
+        ]
+      },
+      "properties": {
+        "id": "Cyclehangar_2135",
+        "spaces": "6",
+        "street": "SYDNER ROAD",
+        "created": "2023-12-12 12:42:49.0",
+        "endOfLife": "12/12/2033",
+        "class": "Residential",
+        "costPerYear": "51.000",
+        "waitingList": 8,
+        "marker-size": "small",
+        "marker-symbol": "bicycle",
+        "marker-color": "#F7EA4A"
       }
     },
     {
@@ -4388,7 +5124,7 @@
         "endOfLife": "14/02/2027",
         "class": "Estate",
         "costPerYear": "36.500",
-        "waitingList": 5,
+        "waitingList": 4,
         "marker-size": "small",
         "marker-symbol": "bicycle",
         "marker-color": "#F7EA4A"
@@ -5607,7 +6343,7 @@
         "endOfLife": "14/03/2034",
         "class": "Residential",
         "costPerYear": "51.000",
-        "waitingList": 3,
+        "waitingList": 4,
         "marker-size": "small",
         "marker-symbol": "bicycle",
         "marker-color": "#F7EA4A"
@@ -5630,10 +6366,10 @@
         "endOfLife": "14/03/2034",
         "class": "Residential",
         "costPerYear": "51.000",
-        "waitingList": 11,
+        "waitingList": 9,
         "marker-size": "small",
         "marker-symbol": "bicycle",
-        "marker-color": "#E6696E"
+        "marker-color": "#F7EA4A"
       }
     },
     {
@@ -5653,7 +6389,7 @@
         "endOfLife": "14/03/2034",
         "class": "Residential",
         "costPerYear": "36.500",
-        "waitingList": 2,
+        "waitingList": 3,
         "marker-size": "small",
         "marker-symbol": "bicycle",
         "marker-color": "#F7EA4A"
@@ -5768,10 +6504,10 @@
         "endOfLife": "14/03/2034",
         "class": "Residential",
         "costPerYear": "51.000",
-        "waitingList": 10,
+        "waitingList": 8,
         "marker-size": "small",
         "marker-symbol": "bicycle",
-        "marker-color": "#E6696E"
+        "marker-color": "#F7EA4A"
       }
     },
     {
@@ -5814,7 +6550,7 @@
         "endOfLife": "14/03/2034",
         "class": "Residential",
         "costPerYear": "51.000",
-        "waitingList": 12,
+        "waitingList": 10,
         "marker-size": "small",
         "marker-symbol": "bicycle",
         "marker-color": "#E6696E"
@@ -5883,7 +6619,7 @@
         "endOfLife": "19/06/2028",
         "class": "Residential",
         "costPerYear": "51.000",
-        "waitingList": 30,
+        "waitingList": 31,
         "marker-size": "small",
         "marker-symbol": "bicycle",
         "marker-color": "#E6696E"
@@ -5906,7 +6642,7 @@
         "endOfLife": "14/03/2034",
         "class": "Residential",
         "costPerYear": "51.000",
-        "waitingList": 9,
+        "waitingList": 7,
         "marker-size": "small",
         "marker-symbol": "bicycle",
         "marker-color": "#F7EA4A"
@@ -5998,7 +6734,7 @@
         "endOfLife": "16/06/2028",
         "class": "Residential",
         "costPerYear": "51.000",
-        "waitingList": 8,
+        "waitingList": 9,
         "marker-size": "small",
         "marker-symbol": "bicycle",
         "marker-color": "#F7EA4A"
@@ -6136,7 +6872,7 @@
         "endOfLife": "14/03/2034",
         "class": "Residential",
         "costPerYear": "51.000",
-        "waitingList": 8,
+        "waitingList": 7,
         "marker-size": "small",
         "marker-symbol": "bicycle",
         "marker-color": "#F7EA4A"
@@ -6228,7 +6964,7 @@
         "endOfLife": "14/03/2034",
         "class": "Residential",
         "costPerYear": "51.000",
-        "waitingList": 1,
+        "waitingList": 3,
         "marker-size": "small",
         "marker-symbol": "bicycle",
         "marker-color": "#F7EA4A"
@@ -7424,10 +8160,10 @@
         "endOfLife": "14/03/2034",
         "class": "Residential",
         "costPerYear": "51.000",
-        "waitingList": 1,
+        "waitingList": 0,
         "marker-size": "small",
         "marker-symbol": "bicycle",
-        "marker-color": "#F7EA4A"
+        "marker-color": "#9CF168"
       }
     },
     {
@@ -7516,10 +8252,10 @@
         "endOfLife": "14/03/2034",
         "class": "Residential",
         "costPerYear": "51.000",
-        "waitingList": 1,
+        "waitingList": 0,
         "marker-size": "small",
         "marker-symbol": "bicycle",
-        "marker-color": "#F7EA4A"
+        "marker-color": "#9CF168"
       }
     },
     {
@@ -7585,7 +8321,7 @@
         "endOfLife": "26/06/2028",
         "class": "Residential",
         "costPerYear": "51.000",
-        "waitingList": 38,
+        "waitingList": 36,
         "marker-size": "small",
         "marker-symbol": "bicycle",
         "marker-color": "#E6696E"
@@ -7746,7 +8482,7 @@
         "endOfLife": "26/06/2028",
         "class": "Residential",
         "costPerYear": "36.500",
-        "waitingList": 18,
+        "waitingList": 17,
         "marker-size": "small",
         "marker-symbol": "bicycle",
         "marker-color": "#E6696E"
@@ -7999,7 +8735,7 @@
         "endOfLife": "05/02/2034",
         "class": "Residential",
         "costPerYear": "51.000",
-        "waitingList": 3,
+        "waitingList": 4,
         "marker-size": "small",
         "marker-symbol": "bicycle",
         "marker-color": "#F7EA4A"
@@ -8022,7 +8758,7 @@
         "endOfLife": "05/02/2034",
         "class": "Residential",
         "costPerYear": "51.000",
-        "waitingList": 3,
+        "waitingList": 4,
         "marker-size": "small",
         "marker-symbol": "bicycle",
         "marker-color": "#F7EA4A"
@@ -8286,29 +9022,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -0.046842,
-          51.552465
-        ]
-      },
-      "properties": {
-        "id": "Bikehangar_1388",
-        "spaces": "6",
-        "street": "Dunlace Road",
-        "created": "2019-03-26 23:54:27.0",
-        "endOfLife": "25/06/2028",
-        "class": "Residential",
-        "costPerYear": "51.000",
-        "waitingList": 40,
-        "marker-size": "small",
-        "marker-symbol": "bicycle",
-        "marker-color": "#E6696E"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           -0.06989395827361022,
           51.55341021576703
         ]
@@ -8325,6 +9038,29 @@
         "marker-size": "small",
         "marker-symbol": "bicycle",
         "marker-color": "#F7EA4A"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.046842,
+          51.552465
+        ]
+      },
+      "properties": {
+        "id": "Bikehangar_1388",
+        "spaces": "6",
+        "street": "Dunlace Road",
+        "created": "2019-03-26 23:54:27.0",
+        "endOfLife": "25/06/2028",
+        "class": "Residential",
+        "costPerYear": "51.000",
+        "waitingList": 40,
+        "marker-size": "small",
+        "marker-symbol": "bicycle",
+        "marker-color": "#E6696E"
       }
     },
     {
@@ -8424,29 +9160,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -0.0734787,
-          51.5497625
-        ]
-      },
-      "properties": {
-        "id": "Bikehangar_339",
-        "spaces": "6",
-        "street": "Sandringham Road",
-        "created": "2019-03-26 23:54:17.0",
-        "endOfLife": "07/06/2025",
-        "class": "Residential",
-        "costPerYear": "51.000",
-        "waitingList": 15,
-        "marker-size": "small",
-        "marker-symbol": "bicycle",
-        "marker-color": "#E6696E"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           -0.051456793096093634,
           51.55214287141362
         ]
@@ -8470,19 +9183,19 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -0.08270566986004724,
-          51.555479341202386
+          -0.0734787,
+          51.5497625
         ]
       },
       "properties": {
-        "id": "Bikehangar_338",
+        "id": "Bikehangar_339",
         "spaces": "6",
-        "street": "MILTON GROVE",
-        "created": "2019-03-26 23:54:26.0",
-        "endOfLife": "06/06/2025",
+        "street": "Sandringham Road",
+        "created": "2019-03-26 23:54:17.0",
+        "endOfLife": "07/06/2025",
         "class": "Residential",
         "costPerYear": "51.000",
-        "waitingList": 69,
+        "waitingList": 15,
         "marker-size": "small",
         "marker-symbol": "bicycle",
         "marker-color": "#E6696E"
@@ -8516,19 +9229,19 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -0.0710262,
-          51.5590673
+          -0.08270566986004724,
+          51.555479341202386
         ]
       },
       "properties": {
-        "id": "Bikehangar_337",
+        "id": "Bikehangar_338",
         "spaces": "6",
-        "street": "Darville Road",
-        "created": "2019-03-26 23:54:21.0",
-        "endOfLife": "24/01/2025",
+        "street": "MILTON GROVE",
+        "created": "2019-03-26 23:54:26.0",
+        "endOfLife": "06/06/2025",
         "class": "Residential",
         "costPerYear": "51.000",
-        "waitingList": 45,
+        "waitingList": 69,
         "marker-size": "small",
         "marker-symbol": "bicycle",
         "marker-color": "#E6696E"
@@ -8562,22 +9275,22 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -0.07435336096853007,
-          51.538375697919804
+          -0.0710262,
+          51.5590673
         ]
       },
       "properties": {
-        "id": "Bikehangar_336",
+        "id": "Bikehangar_337",
         "spaces": "6",
-        "street": "LEE STREET",
-        "created": "2019-03-27 00:02:19.0",
-        "endOfLife": "16/10/2025",
-        "class": "Estate",
-        "costPerYear": "36.500",
-        "waitingList": 7,
+        "street": "Darville Road",
+        "created": "2019-03-26 23:54:21.0",
+        "endOfLife": "24/01/2025",
+        "class": "Residential",
+        "costPerYear": "51.000",
+        "waitingList": 45,
         "marker-size": "small",
         "marker-symbol": "bicycle",
-        "marker-color": "#F7EA4A"
+        "marker-color": "#E6696E"
       }
     },
     {
@@ -8608,22 +9321,22 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -0.053358380579652476,
-          51.567704991509544
+          -0.07435336096853007,
+          51.538375697919804
         ]
       },
       "properties": {
-        "id": "Bikehangar_335",
+        "id": "Bikehangar_336",
         "spaces": "6",
-        "street": "Big Hill",
-        "created": "2019-03-27 00:02:22.0",
-        "endOfLife": "15/10/2025",
+        "street": "LEE STREET",
+        "created": "2019-03-27 00:02:19.0",
+        "endOfLife": "16/10/2025",
         "class": "Estate",
-        "costPerYear": "34.000",
-        "waitingList": 0,
+        "costPerYear": "36.500",
+        "waitingList": 7,
         "marker-size": "small",
         "marker-symbol": "bicycle",
-        "marker-color": "#9CF168"
+        "marker-color": "#F7EA4A"
       }
     },
     {
@@ -8647,6 +9360,29 @@
         "marker-size": "small",
         "marker-symbol": "bicycle",
         "marker-color": "#E6696E"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.053358380579652476,
+          51.567704991509544
+        ]
+      },
+      "properties": {
+        "id": "Bikehangar_335",
+        "spaces": "6",
+        "street": "Big Hill",
+        "created": "2019-03-27 00:02:22.0",
+        "endOfLife": "15/10/2025",
+        "class": "Estate",
+        "costPerYear": "34.000",
+        "waitingList": 0,
+        "marker-size": "small",
+        "marker-symbol": "bicycle",
+        "marker-color": "#9CF168"
       }
     },
     {
@@ -8804,7 +9540,7 @@
         "endOfLife": "27/05/2031",
         "class": "Residential",
         "costPerYear": "51.000",
-        "waitingList": 32,
+        "waitingList": 33,
         "marker-size": "small",
         "marker-symbol": "bicycle",
         "marker-color": "#E6696E"
@@ -8873,7 +9609,7 @@
         "endOfLife": "24/06/2030",
         "class": "Residential",
         "costPerYear": "51.000",
-        "waitingList": 28,
+        "waitingList": 27,
         "marker-size": "small",
         "marker-symbol": "bicycle",
         "marker-color": "#E6696E"
@@ -9287,7 +10023,7 @@
         "endOfLife": "17/05/2024",
         "class": "Residential",
         "costPerYear": "51.000",
-        "waitingList": 30,
+        "waitingList": 29,
         "marker-size": "small",
         "marker-symbol": "bicycle",
         "marker-color": "#E6696E"
@@ -9333,7 +10069,7 @@
         "endOfLife": "17/05/2024",
         "class": "Residential",
         "costPerYear": "51.000",
-        "waitingList": 14,
+        "waitingList": 15,
         "marker-size": "small",
         "marker-symbol": "bicycle",
         "marker-color": "#E6696E"
@@ -9402,7 +10138,7 @@
         "endOfLife": "07/03/2032",
         "class": "Residential",
         "costPerYear": "51.000",
-        "waitingList": 25,
+        "waitingList": 24,
         "marker-size": "small",
         "marker-symbol": "bicycle",
         "marker-color": "#E6696E"
@@ -9862,7 +10598,7 @@
         "endOfLife": "24/06/2030",
         "class": "Residential",
         "costPerYear": "51.000",
-        "waitingList": 28,
+        "waitingList": 27,
         "marker-size": "small",
         "marker-symbol": "bicycle",
         "marker-color": "#E6696E"
@@ -10276,7 +11012,7 @@
         "endOfLife": "09/12/2031",
         "class": "Residential",
         "costPerYear": "51.000",
-        "waitingList": 26,
+        "waitingList": 27,
         "marker-size": "small",
         "marker-symbol": "bicycle",
         "marker-color": "#E6696E"
@@ -10437,7 +11173,7 @@
         "endOfLife": "29/01/2024",
         "class": "Residential",
         "costPerYear": "51.000",
-        "waitingList": 22,
+        "waitingList": 23,
         "marker-size": "small",
         "marker-symbol": "bicycle",
         "marker-color": "#E6696E"
@@ -10621,7 +11357,7 @@
         "endOfLife": "24/06/2030",
         "class": "Residential",
         "costPerYear": "51.000",
-        "waitingList": 19,
+        "waitingList": 18,
         "marker-size": "small",
         "marker-symbol": "bicycle",
         "marker-color": "#E6696E"
@@ -10690,7 +11426,7 @@
         "endOfLife": "01/06/2031",
         "class": "Residential",
         "costPerYear": "51.000",
-        "waitingList": 34,
+        "waitingList": 35,
         "marker-size": "small",
         "marker-symbol": "bicycle",
         "marker-color": "#E6696E"
@@ -11173,7 +11909,7 @@
         "endOfLife": "09/03/2032",
         "class": "Residential",
         "costPerYear": "51.000",
-        "waitingList": 30,
+        "waitingList": 31,
         "marker-size": "small",
         "marker-symbol": "bicycle",
         "marker-color": "#E6696E"
@@ -11564,7 +12300,7 @@
         "endOfLife": "24/06/2030",
         "class": "Residential",
         "costPerYear": "51.000",
-        "waitingList": 35,
+        "waitingList": 33,
         "marker-size": "small",
         "marker-symbol": "bicycle",
         "marker-color": "#E6696E"
@@ -11656,7 +12392,7 @@
         "endOfLife": "30/08/2025",
         "class": "Residential",
         "costPerYear": "51.000",
-        "waitingList": 29,
+        "waitingList": 30,
         "marker-size": "small",
         "marker-symbol": "bicycle",
         "marker-color": "#E6696E"
@@ -11725,7 +12461,7 @@
         "endOfLife": "09/03/2032",
         "class": "Residential",
         "costPerYear": "51.000",
-        "waitingList": 19,
+        "waitingList": 20,
         "marker-size": "small",
         "marker-symbol": "bicycle",
         "marker-color": "#E6696E"
@@ -11817,7 +12553,7 @@
         "endOfLife": "09/03/2032",
         "class": "Residential",
         "costPerYear": "51.000",
-        "waitingList": 27,
+        "waitingList": 25,
         "marker-size": "small",
         "marker-symbol": "bicycle",
         "marker-color": "#E6696E"
@@ -11955,7 +12691,7 @@
         "endOfLife": "07/03/2032",
         "class": "Residential",
         "costPerYear": "51.000",
-        "waitingList": 13,
+        "waitingList": 12,
         "marker-size": "small",
         "marker-symbol": "bicycle",
         "marker-color": "#E6696E"
@@ -11978,7 +12714,7 @@
         "endOfLife": "07/03/2032",
         "class": "Residential",
         "costPerYear": "51.000",
-        "waitingList": 16,
+        "waitingList": 17,
         "marker-size": "small",
         "marker-symbol": "bicycle",
         "marker-color": "#E6696E"
@@ -12116,7 +12852,7 @@
         "endOfLife": "09/03/2032",
         "class": "Residential",
         "costPerYear": "51.000",
-        "waitingList": 10,
+        "waitingList": 11,
         "marker-size": "small",
         "marker-symbol": "bicycle",
         "marker-color": "#E6696E"
@@ -12300,7 +13036,7 @@
         "endOfLife": "25/06/2030",
         "class": "Residential",
         "costPerYear": "51.000",
-        "waitingList": 6,
+        "waitingList": 5,
         "marker-size": "small",
         "marker-symbol": "bicycle",
         "marker-color": "#F7EA4A"
@@ -12461,7 +13197,7 @@
         "endOfLife": "25/06/2030",
         "class": "Residential",
         "costPerYear": "51.000",
-        "waitingList": 34,
+        "waitingList": 33,
         "marker-size": "small",
         "marker-symbol": "bicycle",
         "marker-color": "#E6696E"
@@ -12714,7 +13450,7 @@
         "endOfLife": "25/06/2030",
         "class": "Residential",
         "costPerYear": "51.000",
-        "waitingList": 24,
+        "waitingList": 23,
         "marker-size": "small",
         "marker-symbol": "bicycle",
         "marker-color": "#E6696E"
@@ -13726,7 +14462,7 @@
         "endOfLife": "26/12/2024",
         "class": "Residential",
         "costPerYear": "51.000",
-        "waitingList": 20,
+        "waitingList": 21,
         "marker-size": "small",
         "marker-symbol": "bicycle",
         "marker-color": "#E6696E"
@@ -13749,7 +14485,7 @@
         "endOfLife": "26/12/2024",
         "class": "Residential",
         "costPerYear": "51.000",
-        "waitingList": 13,
+        "waitingList": 14,
         "marker-size": "small",
         "marker-symbol": "bicycle",
         "marker-color": "#E6696E"
@@ -13772,7 +14508,7 @@
         "endOfLife": "27/12/2024",
         "class": "Residential",
         "costPerYear": "51.000",
-        "waitingList": 4,
+        "waitingList": 5,
         "marker-size": "small",
         "marker-symbol": "bicycle",
         "marker-color": "#F7EA4A"
@@ -14255,7 +14991,7 @@
         "endOfLife": "18/04/2034",
         "class": "Residential",
         "costPerYear": "51.000",
-        "waitingList": 1,
+        "waitingList": 3,
         "marker-size": "small",
         "marker-symbol": "bicycle",
         "marker-color": "#F7EA4A"
@@ -14462,7 +15198,7 @@
         "endOfLife": "18/04/2034",
         "class": "Residential",
         "costPerYear": "51.000",
-        "waitingList": 7,
+        "waitingList": 8,
         "marker-size": "small",
         "marker-symbol": "bicycle",
         "marker-color": "#F7EA4A"
@@ -14899,7 +15635,7 @@
         "endOfLife": "18/04/2034",
         "class": "Residential",
         "costPerYear": "51.000",
-        "waitingList": 4,
+        "waitingList": 7,
         "marker-size": "small",
         "marker-symbol": "bicycle",
         "marker-color": "#F7EA4A"
@@ -15014,7 +15750,7 @@
         "endOfLife": "14/03/2034",
         "class": "Residential",
         "costPerYear": "51.000",
-        "waitingList": 5,
+        "waitingList": 3,
         "marker-size": "small",
         "marker-symbol": "bicycle",
         "marker-color": "#F7EA4A"
@@ -15037,7 +15773,7 @@
         "endOfLife": "14/03/2034",
         "class": "Residential",
         "costPerYear": "51.000",
-        "waitingList": 4,
+        "waitingList": 2,
         "marker-size": "small",
         "marker-symbol": "bicycle",
         "marker-color": "#F7EA4A"
@@ -16348,7 +17084,7 @@
         "endOfLife": "03/04/2027",
         "class": "Residential",
         "costPerYear": "51.000",
-        "waitingList": 41,
+        "waitingList": 39,
         "marker-size": "small",
         "marker-symbol": "bicycle",
         "marker-color": "#E6696E"
@@ -16486,7 +17222,7 @@
         "endOfLife": "02/01/2030",
         "class": "Residential",
         "costPerYear": "51.000",
-        "waitingList": 16,
+        "waitingList": 17,
         "marker-size": "small",
         "marker-symbol": "bicycle",
         "marker-color": "#E6696E"
@@ -16831,10 +17567,10 @@
         "endOfLife": "15/11/2026",
         "class": "Estate",
         "costPerYear": "36.500",
-        "waitingList": 0,
+        "waitingList": 1,
         "marker-size": "small",
         "marker-symbol": "bicycle",
-        "marker-color": "#9CF168"
+        "marker-color": "#F7EA4A"
       }
     },
     {
@@ -16900,7 +17636,7 @@
         "endOfLife": "18/04/2034",
         "class": "Residential",
         "costPerYear": "51.000",
-        "waitingList": 3,
+        "waitingList": 5,
         "marker-size": "small",
         "marker-symbol": "bicycle",
         "marker-color": "#F7EA4A"
@@ -16923,7 +17659,7 @@
         "endOfLife": "18/04/2034",
         "class": "Residential",
         "costPerYear": "51.000",
-        "waitingList": 1,
+        "waitingList": 6,
         "marker-size": "small",
         "marker-symbol": "bicycle",
         "marker-color": "#F7EA4A"
@@ -17003,22 +17739,22 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -0.07707254326672341,
-          51.552195076485134
+          -0.086773657530415,
+          51.5557095305698
         ]
       },
       "properties": {
-        "id": "Cyclehangar_2228",
+        "id": "Bikehangar_H1418",
         "spaces": "6",
-        "street": "BARRETTS GROVE",
-        "created": "2024-04-18 14:25:29.0",
-        "endOfLife": "18/04/2034",
+        "street": "SPRINGDALE ROAD",
+        "created": "2019-09-11 14:59:35.0",
+        "endOfLife": "11/09/2029",
         "class": "Residential",
         "costPerYear": "51.000",
-        "waitingList": 0,
+        "waitingList": 25,
         "marker-size": "small",
         "marker-symbol": "bicycle",
-        "marker-color": "#9CF168"
+        "marker-color": "#E6696E"
       }
     },
     {
@@ -17049,19 +17785,42 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -0.086773657530415,
-          51.5557095305698
+          -0.07707254326672341,
+          51.552195076485134
         ]
       },
       "properties": {
-        "id": "Bikehangar_H1418",
+        "id": "Cyclehangar_2228",
         "spaces": "6",
-        "street": "SPRINGDALE ROAD",
-        "created": "2019-09-11 14:59:35.0",
+        "street": "BARRETTS GROVE",
+        "created": "2024-04-18 14:25:29.0",
+        "endOfLife": "18/04/2034",
+        "class": "Residential",
+        "costPerYear": "51.000",
+        "waitingList": 0,
+        "marker-size": "small",
+        "marker-symbol": "bicycle",
+        "marker-color": "#9CF168"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.06547130652234046,
+          51.56134816927886
+        ]
+      },
+      "properties": {
+        "id": "Bikehangar_H1417",
+        "spaces": "6",
+        "street": "NORCOTT ROAD",
+        "created": "2019-09-11 14:57:22.0",
         "endOfLife": "11/09/2029",
         "class": "Residential",
         "costPerYear": "51.000",
-        "waitingList": 25,
+        "waitingList": 38,
         "marker-size": "small",
         "marker-symbol": "bicycle",
         "marker-color": "#E6696E"
@@ -17095,19 +17854,19 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -0.06547130652234046,
-          51.56134816927886
+          -0.05284051078078278,
+          51.55737773278935
         ]
       },
       "properties": {
-        "id": "Bikehangar_H1417",
+        "id": "Bikehangar_H1416",
         "spaces": "6",
-        "street": "NORCOTT ROAD",
-        "created": "2019-09-11 14:57:22.0",
+        "street": "NEWICK ROAD",
+        "created": "2019-09-11 14:53:13.0",
         "endOfLife": "11/09/2029",
         "class": "Residential",
         "costPerYear": "51.000",
-        "waitingList": 38,
+        "waitingList": 18,
         "marker-size": "small",
         "marker-symbol": "bicycle",
         "marker-color": "#E6696E"
@@ -17141,29 +17900,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -0.05284051078078278,
-          51.55737773278935
-        ]
-      },
-      "properties": {
-        "id": "Bikehangar_H1416",
-        "spaces": "6",
-        "street": "NEWICK ROAD",
-        "created": "2019-09-11 14:53:13.0",
-        "endOfLife": "11/09/2029",
-        "class": "Residential",
-        "costPerYear": "51.000",
-        "waitingList": 19,
-        "marker-size": "small",
-        "marker-symbol": "bicycle",
-        "marker-color": "#E6696E"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           -0.03583300758356245,
           51.54728218886251
         ]
@@ -17177,52 +17913,6 @@
         "class": "Residential",
         "costPerYear": "51.000",
         "waitingList": 41,
-        "marker-size": "small",
-        "marker-symbol": "bicycle",
-        "marker-color": "#E6696E"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -0.04864169318366862,
-          51.55572696150318
-        ]
-      },
-      "properties": {
-        "id": "Cyclehangar_2224",
-        "spaces": "6",
-        "street": "MAYOLA ROAD",
-        "created": "2024-04-18 14:20:56.0",
-        "endOfLife": "18/04/2034",
-        "class": "Residential",
-        "costPerYear": "51.000",
-        "waitingList": 0,
-        "marker-size": "small",
-        "marker-symbol": "bicycle",
-        "marker-color": "#9CF168"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -0.04673488042391227,
-          51.54870258661791
-        ]
-      },
-      "properties": {
-        "id": "Bikehangar_743",
-        "spaces": "6",
-        "street": "FENN STREET",
-        "created": "2019-03-27 00:02:21.0",
-        "endOfLife": "27/11/2026",
-        "class": "Estate",
-        "costPerYear": "36.500",
-        "waitingList": 24,
         "marker-size": "small",
         "marker-symbol": "bicycle",
         "marker-color": "#E6696E"
@@ -17256,15 +17946,38 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -0.06438324174627041,
-          51.564132288975486
+          -0.04673488042391227,
+          51.54870258661791
         ]
       },
       "properties": {
-        "id": "Cyclehangar_2225",
+        "id": "Bikehangar_743",
         "spaces": "6",
-        "street": "DURLSTON ROAD",
-        "created": "2024-04-18 14:22:06.0",
+        "street": "FENN STREET",
+        "created": "2019-03-27 00:02:21.0",
+        "endOfLife": "27/11/2026",
+        "class": "Estate",
+        "costPerYear": "36.500",
+        "waitingList": 24,
+        "marker-size": "small",
+        "marker-symbol": "bicycle",
+        "marker-color": "#E6696E"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.04864169318366862,
+          51.55572696150318
+        ]
+      },
+      "properties": {
+        "id": "Cyclehangar_2224",
+        "spaces": "6",
+        "street": "MAYOLA ROAD",
+        "created": "2024-04-18 14:20:56.0",
         "endOfLife": "18/04/2034",
         "class": "Residential",
         "costPerYear": "51.000",
@@ -17302,15 +18015,15 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -0.0699373359443598,
-          51.54905150508321
+          -0.06438324174627041,
+          51.564132288975486
         ]
       },
       "properties": {
-        "id": "Cyclehangar_2226",
+        "id": "Cyclehangar_2225",
         "spaces": "6",
-        "street": "COLVESTONE CRESCENT",
-        "created": "2024-04-18 14:23:31.0",
+        "street": "DURLSTON ROAD",
+        "created": "2024-04-18 14:22:06.0",
         "endOfLife": "18/04/2034",
         "class": "Residential",
         "costPerYear": "51.000",
@@ -17348,22 +18061,22 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -0.05882045582001183,
-          51.54351100579319
+          -0.0699373359443598,
+          51.54905150508321
         ]
       },
       "properties": {
-        "id": "Cyclehangar_2227",
+        "id": "Cyclehangar_2226",
         "spaces": "6",
-        "street": "RICHMOND ROAD",
-        "created": "2024-04-18 14:24:23.0",
+        "street": "COLVESTONE CRESCENT",
+        "created": "2024-04-18 14:23:31.0",
         "endOfLife": "18/04/2034",
         "class": "Residential",
         "costPerYear": "51.000",
-        "waitingList": 10,
+        "waitingList": 0,
         "marker-size": "small",
         "marker-symbol": "bicycle",
-        "marker-color": "#E6696E"
+        "marker-color": "#9CF168"
       }
     },
     {
@@ -17384,6 +18097,29 @@
         "class": "Residential",
         "costPerYear": "51.000",
         "waitingList": 13,
+        "marker-size": "small",
+        "marker-symbol": "bicycle",
+        "marker-color": "#E6696E"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.05882045582001183,
+          51.54351100579319
+        ]
+      },
+      "properties": {
+        "id": "Cyclehangar_2227",
+        "spaces": "6",
+        "street": "RICHMOND ROAD",
+        "created": "2024-04-18 14:24:23.0",
+        "endOfLife": "18/04/2034",
+        "class": "Residential",
+        "costPerYear": "51.000",
+        "waitingList": 10,
         "marker-size": "small",
         "marker-symbol": "bicycle",
         "marker-color": "#E6696E"
@@ -17463,29 +18199,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -0.0770835277618005,
-          51.541553931436596
-        ]
-      },
-      "properties": {
-        "id": "Cyclehangar_2097",
-        "spaces": "6",
-        "street": "HERTFORD ROAD",
-        "created": "2023-12-18 14:36:31.0",
-        "endOfLife": "18/12/2033",
-        "class": "Estate",
-        "costPerYear": "34.000",
-        "waitingList": 0,
-        "marker-size": "small",
-        "marker-symbol": "bicycle",
-        "marker-color": "#9CF168"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           -0.05967439058275659,
           51.54536096560233
         ]
@@ -17502,6 +18215,29 @@
         "marker-size": "small",
         "marker-symbol": "bicycle",
         "marker-color": "#E6696E"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.0770835277618005,
+          51.541553931436596
+        ]
+      },
+      "properties": {
+        "id": "Cyclehangar_2097",
+        "spaces": "6",
+        "street": "HERTFORD ROAD",
+        "created": "2023-12-18 14:36:31.0",
+        "endOfLife": "18/12/2033",
+        "class": "Estate",
+        "costPerYear": "34.000",
+        "waitingList": 0,
+        "marker-size": "small",
+        "marker-symbol": "bicycle",
+        "marker-color": "#9CF168"
       }
     },
     {
@@ -17624,29 +18360,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -0.0845852011846091,
-          51.52677905567248
-        ]
-      },
-      "properties": {
-        "id": "Bikehangar_1588",
-        "spaces": "6",
-        "street": "CHARLES SQUARE",
-        "created": "2021-03-22 13:18:38.0",
-        "endOfLife": "22/03/2031",
-        "class": "Estate",
-        "costPerYear": "36.500",
-        "waitingList": 1,
-        "marker-size": "small",
-        "marker-symbol": "bicycle",
-        "marker-color": "#F7EA4A"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           -0.052378252724253116,
           51.549746783494385
         ]
@@ -17663,6 +18376,29 @@
         "marker-size": "small",
         "marker-symbol": "bicycle",
         "marker-color": "#E6696E"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.0845852011846091,
+          51.52677905567248
+        ]
+      },
+      "properties": {
+        "id": "Bikehangar_1588",
+        "spaces": "6",
+        "street": "CHARLES SQUARE",
+        "created": "2021-03-22 13:18:38.0",
+        "endOfLife": "22/03/2031",
+        "class": "Estate",
+        "costPerYear": "36.500",
+        "waitingList": 1,
+        "marker-size": "small",
+        "marker-symbol": "bicycle",
+        "marker-color": "#F7EA4A"
       }
     },
     {
@@ -17797,7 +18533,7 @@
         "endOfLife": "23/06/2030",
         "class": "Residential",
         "costPerYear": "51.000",
-        "waitingList": 21,
+        "waitingList": 20,
         "marker-size": "small",
         "marker-symbol": "bicycle",
         "marker-color": "#E6696E"
@@ -18142,7 +18878,7 @@
         "endOfLife": "06/02/2028",
         "class": "Residential",
         "costPerYear": "51.000",
-        "waitingList": 37,
+        "waitingList": 36,
         "marker-size": "small",
         "marker-symbol": "bicycle",
         "marker-color": "#E6696E"
@@ -18441,7 +19177,7 @@
         "endOfLife": "07/02/2028",
         "class": "Residential",
         "costPerYear": "51.000",
-        "waitingList": 37,
+        "waitingList": 36,
         "marker-size": "small",
         "marker-symbol": "bicycle",
         "marker-color": "#E6696E"
@@ -20304,7 +21040,7 @@
         "endOfLife": "23/10/2033",
         "class": "Residential",
         "costPerYear": "51.000",
-        "waitingList": 8,
+        "waitingList": 7,
         "marker-size": "small",
         "marker-symbol": "bicycle",
         "marker-color": "#F7EA4A"
@@ -20833,7 +21569,7 @@
         "endOfLife": "21/09/2033",
         "class": "Residential",
         "costPerYear": "51.000",
-        "waitingList": 3,
+        "waitingList": 4,
         "marker-size": "small",
         "marker-symbol": "bicycle",
         "marker-color": "#F7EA4A"
@@ -20902,7 +21638,7 @@
         "endOfLife": "21/09/2033",
         "class": "Residential",
         "costPerYear": "51.000",
-        "waitingList": 10,
+        "waitingList": 11,
         "marker-size": "small",
         "marker-symbol": "bicycle",
         "marker-color": "#E6696E"
