@@ -478,10 +478,9 @@
       "spaces": "6",
       "street_usrn": "20950246",
       "street": "WOODMILL ROAD",
-      "actual_end_of_life": "2024-05-20",
-      "maintenance_key": "tbc",
+      "maintenance_key": "H565765",
       "long": "-0.04985482607537506",
-      "waitingList": 0,
+      "waitingList": 3,
       "end_of_life": "20/05/2034",
       "hanger_id": "Cyclehoop_2266",
       "hanger_type_id": "R_RES_STD_Zone_U",
@@ -489,7 +488,7 @@
       "auto_offer_spaces": "false",
       "lat": "51.5643701108371",
       "waiting_list": {
-        "waiting_count": 0
+        "waiting_count": 3
       }
     },
     "Bikehangar_1402": {
@@ -953,7 +952,7 @@
       "street": "WILBERFORCE ROAD",
       "maintenance_key": "H414897 / ifob 83",
       "long": "-0.10046573984425322",
-      "waitingList": 43,
+      "waitingList": 44,
       "end_of_life": "03/01/2025",
       "hanger_id": "Bikehangar_223",
       "hanger_type_id": "R_RES_STD_Zone_G2",
@@ -961,7 +960,7 @@
       "auto_offer_spaces": "true",
       "lat": "51.56385978443839",
       "waiting_list": {
-        "waiting_count": 43
+        "waiting_count": 44
       }
     },
     "Bikehangar_1446": {
@@ -1028,7 +1027,7 @@
       "street": "SHAFTESBURY STREET",
       "maintenance_key": "TBC",
       "long": "-0.09100144814721034",
-      "waitingList": 6,
+      "waitingList": 7,
       "end_of_life": "26/06/2030",
       "hanger_id": "Bikehangar_1448",
       "hanger_type_id": "R_RES_STD_Zone_A",
@@ -1036,7 +1035,7 @@
       "auto_offer_spaces": "true",
       "lat": "51.532177589818986",
       "waiting_list": {
-        "waiting_count": 6
+        "waiting_count": 7
       }
     },
     "Bikehangar_226": {
@@ -1204,7 +1203,7 @@
       "street": "Fremont Street",
       "maintenance_key": "H403213 / iFob 66",
       "long": "-0.054813623",
-      "waitingList": 63,
+      "waitingList": 62,
       "end_of_life": "31/03/2025",
       "hanger_id": "Bikehangar_254",
       "hanger_type_id": "R_RES_STD_Zone_D",
@@ -1212,7 +1211,7 @@
       "auto_offer_spaces": "true",
       "lat": "51.5378207",
       "waiting_list": {
-        "waiting_count": 63
+        "waiting_count": 62
       }
     },
     "Bikehangar_255": {
@@ -2018,7 +2017,7 @@
       "street": "MARGARET ROAD",
       "maintenance_key": "H402088 / ifob 107",
       "long": "-0.07146722957693896",
-      "waitingList": 41,
+      "waitingList": 40,
       "end_of_life": "20/12/2025",
       "hanger_id": "Bikehangar_462",
       "hanger_type_id": "R_RES_STD_Zone_T",
@@ -2026,7 +2025,7 @@
       "auto_offer_spaces": "true",
       "lat": "51.56628627819438",
       "waiting_list": {
-        "waiting_count": 41
+        "waiting_count": 40
       }
     },
     "Bikehangar_461": {
@@ -2268,7 +2267,7 @@
       "street": "Ickburgh Road",
       "maintenance_key": "iFob106/ H398183",
       "long": "-0.0601098",
-      "waitingList": 30,
+      "waitingList": 29,
       "end_of_life": "20/12/2025",
       "hanger_id": "Bikehangar_478",
       "hanger_type_id": "R_RES_STD_Zone_S",
@@ -2276,7 +2275,7 @@
       "auto_offer_spaces": "true",
       "lat": "51.5604558",
       "waiting_list": {
-        "waiting_count": 30
+        "waiting_count": 29
       }
     },
     "Bikehangar_261": {
@@ -2468,7 +2467,7 @@
       "street": "ROWHILL ROAD",
       "maintenance_key": "H415084",
       "long": "-0.05410710359367954",
-      "waitingList": 16,
+      "waitingList": 15,
       "end_of_life": "12/04/2025",
       "hanger_id": "Bikehangar_263",
       "hanger_type_id": "R_RES_STD_Zone_S",
@@ -2476,7 +2475,7 @@
       "auto_offer_spaces": "true",
       "lat": "51.55416544250414",
       "waiting_list": {
-        "waiting_count": 16
+        "waiting_count": 15
       }
     },
     "Bikehangar_471": {
@@ -2543,7 +2542,7 @@
       "street": "Sandringham Road",
       "maintenance_key": "H402118 / iFob 62",
       "long": "-0.0729584",
-      "waitingList": 7,
+      "waitingList": 6,
       "end_of_life": "12/12/2025",
       "hanger_id": "Bikehangar_475",
       "hanger_type_id": "R_RES_STD_Zone_C",
@@ -2551,7 +2550,7 @@
       "auto_offer_spaces": "true",
       "lat": "51.5497643",
       "waiting_list": {
-        "waiting_count": 7
+        "waiting_count": 6
       }
     },
     "Bikehangar_474": {
@@ -2668,7 +2667,7 @@
       "street": "Gore Road",
       "maintenance_key": "H402314 / ifob 102",
       "long": "-0.0441764",
-      "waitingList": 21,
+      "waitingList": 22,
       "end_of_life": "19/06/2026",
       "hanger_id": "Bikehangar_670",
       "hanger_type_id": "R_RES_STD_Zone_P",
@@ -2676,7 +2675,7 @@
       "auto_offer_spaces": "true",
       "lat": "51.5363926",
       "waiting_list": {
-        "waiting_count": 21
+        "waiting_count": 22
       }
     },
     "Bikehangar_671": {
@@ -3143,7 +3142,7 @@
       "street": "Somerfield Road",
       "maintenance_key": "H402083 / ifob 83",
       "long": "-0.1008863",
-      "waitingList": 24,
+      "waitingList": 25,
       "end_of_life": "12/12/2025",
       "hanger_id": "Bikehangar_422",
       "hanger_type_id": "R_RES_STD_Zone_G2",
@@ -3151,7 +3150,7 @@
       "auto_offer_spaces": "true",
       "lat": "51.5641615",
       "waiting_list": {
-        "waiting_count": 24
+        "waiting_count": 25
       }
     },
     "Bikehangar_423": {
@@ -3467,7 +3466,7 @@
       "street": "Tyssen Road",
       "maintenance_key": "H402080",
       "long": "-0.0726076",
-      "waitingList": 52,
+      "waitingList": 51,
       "end_of_life": "21/12/2025",
       "hanger_id": "Bikehangar_430",
       "hanger_type_id": "R_RES_STD_Zone_E",
@@ -3475,7 +3474,7 @@
       "auto_offer_spaces": "true",
       "lat": "51.5593813",
       "waiting_list": {
-        "waiting_count": 52
+        "waiting_count": 51
       }
     },
     "Bikehangar_1712": {
@@ -3641,7 +3640,7 @@
       "street": "Osterley Road",
       "maintenance_key": "H402081/ ifob 93",
       "long": "-0.0798913",
-      "waitingList": 36,
+      "waitingList": 37,
       "end_of_life": "21/12/2025",
       "hanger_id": "Bikehangar_432",
       "hanger_type_id": "R_RES_STD_Zone_M",
@@ -3649,7 +3648,7 @@
       "auto_offer_spaces": "true",
       "lat": "51.5565243",
       "waiting_list": {
-        "waiting_count": 36
+        "waiting_count": 37
       }
     },
     "Bikehangar_433": {
@@ -4313,7 +4312,7 @@
       "street": "EVERING ROAD",
       "maintenance_key": "H402125",
       "long": "-0.06354096537512532",
-      "waitingList": 29,
+      "waitingList": 28,
       "end_of_life": "04/01/2026",
       "hanger_id": "Bikehangar_444",
       "hanger_type_id": "R_RES_STD_Zone_R",
@@ -4321,7 +4320,7 @@
       "auto_offer_spaces": "true",
       "lat": "51.5601453537312",
       "waiting_list": {
-        "waiting_count": 29
+        "waiting_count": 28
       }
     },
     "Bikehangar_445": {
@@ -4588,7 +4587,7 @@
       "street": "GLYN ROAD",
       "maintenance_key": "H402086 / ifob 100",
       "long": "-0.042963488561383656",
-      "waitingList": 43,
+      "waitingList": 44,
       "end_of_life": "22/12/2025",
       "hanger_id": "Bikehangar_451",
       "hanger_type_id": "R_RES_STD_Zone_N",
@@ -4596,7 +4595,7 @@
       "auto_offer_spaces": "true",
       "lat": "51.55608863428154",
       "waiting_list": {
-        "waiting_count": 43
+        "waiting_count": 44
       }
     },
     "Bikehangar_458": {
@@ -4812,7 +4811,7 @@
       "street": "GLYN ROAD",
       "maintenance_key": "H527988",
       "long": "-0.04281695350121595",
-      "waitingList": 8,
+      "waitingList": 9,
       "end_of_life": "12/12/2033",
       "hanger_id": "Cyclehangar_2119",
       "hanger_type_id": "R_RES_STD_Zone_N",
@@ -4820,7 +4819,7 @@
       "auto_offer_spaces": "true",
       "lat": "51.555962675865885",
       "waiting_list": {
-        "waiting_count": 8
+        "waiting_count": 9
       }
     },
     "Cyclehangar_2116": {
@@ -4886,7 +4885,7 @@
       "street": "BLURTON ROAD",
       "maintenance_key": "H528011",
       "long": "-0.04404455210379865",
-      "waitingList": 10,
+      "waitingList": 9,
       "end_of_life": "12/12/2033",
       "hanger_id": "Cyclehangar_2114",
       "hanger_type_id": "R_RES_STD_Zone_C",
@@ -4894,7 +4893,7 @@
       "auto_offer_spaces": "true",
       "lat": "51.55398719487576",
       "waiting_list": {
-        "waiting_count": 10
+        "waiting_count": 9
       }
     },
     "Cyclehangar_2115": {
@@ -4987,7 +4986,7 @@
       "street": "ELDERFIELD ROAD",
       "maintenance_key": "H527997",
       "long": "-0.04624528417588181",
-      "waitingList": 9,
+      "waitingList": 8,
       "end_of_life": "12/12/2033",
       "hanger_id": "Cyclehangar_2110",
       "hanger_type_id": "R_RES_STD_Zone_N",
@@ -4995,7 +4994,7 @@
       "auto_offer_spaces": "true",
       "lat": "51.55557379655261",
       "waiting_list": {
-        "waiting_count": 9
+        "waiting_count": 8
       }
     },
     "Cyclehangar_2111": {
@@ -5210,7 +5209,7 @@
       "street": "Anderson Road",
       "maintenance_key": "H415736 / ifob 90",
       "long": "-0.04221797",
-      "waitingList": 1,
+      "waitingList": 3,
       "end_of_life": "08/03/2026",
       "hanger_id": "Bikehangar_413",
       "hanger_type_id": "E_EST_STD_Zone_L",
@@ -5218,7 +5217,7 @@
       "auto_offer_spaces": "true",
       "lat": "51.5455811",
       "waiting_list": {
-        "waiting_count": 1
+        "waiting_count": 3
       }
     },
     "Cyclehangar_2136": {
@@ -5240,7 +5239,7 @@
       "hanger_id": "Cyclehangar_2136",
       "hanger_type_id": "R_RES_STD_Zone_E",
       "created": "2024-05-28 16:50:36.0",
-      "auto_offer_spaces": "false",
+      "auto_offer_spaces": "true",
       "lat": "51.55594068875325",
       "waiting_list": {
         "waiting_count": 1
@@ -5335,7 +5334,7 @@
       "street": "Leswin Road",
       "maintenance_key": "H402145",
       "long": "-0.0730339",
-      "waitingList": 50,
+      "waitingList": 48,
       "end_of_life": "22/12/2025",
       "hanger_id": "Bikehangar_417",
       "hanger_type_id": "R_RES_STD_Zone_E",
@@ -5343,7 +5342,7 @@
       "auto_offer_spaces": "true",
       "lat": "51.5579054",
       "waiting_list": {
-        "waiting_count": 50
+        "waiting_count": 48
       }
     },
     "Bikehangar_416": {
@@ -5780,15 +5779,15 @@
       "street": "NEVILL ROAD",
       "maintenance_key": "H527920",
       "long": "-0.07911184223752343",
-      "waitingList": 23,
+      "waitingList": 21,
       "end_of_life": "12/12/2033",
       "hanger_id": "Cyclehangar_2126",
       "hanger_type_id": "R_RES_STD_Zone_E",
       "created": "2023-12-12 12:20:14.0",
-      "auto_offer_spaces": "false",
+      "auto_offer_spaces": "true",
       "lat": "51.555915202142785",
       "waiting_list": {
-        "waiting_count": 23
+        "waiting_count": 21
       }
     },
     "Bikehangar_400": {
@@ -5928,7 +5927,7 @@
       "street": "Tyssen Street",
       "maintenance_key": "H415709 ifob 78",
       "long": "-0.07937502606301905",
-      "waitingList": 1,
+      "waitingList": 2,
       "end_of_life": "13/03/2026",
       "hanger_id": "Bikehangar_405",
       "hanger_type_id": "E_EST_STD_Zone_F",
@@ -5936,7 +5935,7 @@
       "auto_offer_spaces": "true",
       "lat": "51.53244995448932",
       "waiting_list": {
-        "waiting_count": 1
+        "waiting_count": 2
       }
     },
     "Bikehangar_404": {
@@ -7022,7 +7021,7 @@
       "street": "GORE ROAD",
       "maintenance_key": "H565715",
       "long": "-0.044051232855991884",
-      "waitingList": 1,
+      "waitingList": 2,
       "end_of_life": "14/03/2034",
       "hanger_id": "Cyclehangar_2195",
       "hanger_type_id": "R_RES_STD_Zone_P",
@@ -7030,7 +7029,7 @@
       "auto_offer_spaces": "true",
       "lat": "51.536420632498306",
       "waiting_list": {
-        "waiting_count": 1
+        "waiting_count": 2
       }
     },
     "Cyclehangar_2196": {
@@ -7046,7 +7045,7 @@
       "street": "POOLE ROAD",
       "maintenance_key": "H565716",
       "long": "-0.04643305144472265",
-      "waitingList": 7,
+      "waitingList": 5,
       "end_of_life": "14/03/2034",
       "hanger_id": "Cyclehangar_2196",
       "hanger_type_id": "R_RES_STD_Zone_Q",
@@ -7054,7 +7053,7 @@
       "auto_offer_spaces": "true",
       "lat": "51.54433395341701",
       "waiting_list": {
-        "waiting_count": 7
+        "waiting_count": 5
       }
     },
     "Cyclehangar_2197": {
@@ -7070,7 +7069,7 @@
       "street": "NORCOTT ROAD",
       "maintenance_key": "H565760",
       "long": "-0.0658084973805444",
-      "waitingList": 7,
+      "waitingList": 8,
       "end_of_life": "14/03/2034",
       "hanger_id": "Cyclehangar_2197",
       "hanger_type_id": "R_RES_STD_Zone_R",
@@ -7078,7 +7077,7 @@
       "auto_offer_spaces": "true",
       "lat": "51.56172429216858",
       "waiting_list": {
-        "waiting_count": 7
+        "waiting_count": 8
       }
     },
     "Bikehangar_1379": {
@@ -7466,15 +7465,15 @@
       "street": "SOMERFIELD ROAD",
       "maintenance_key": "H565683",
       "long": "-0.10131071170306427",
-      "waitingList": 11,
+      "waitingList": 9,
       "end_of_life": "14/03/2034",
       "hanger_id": "Cyclehangar_2188",
       "hanger_type_id": "R_RES_STD_Zone_G2",
       "created": "2024-03-14 11:19:54.0",
-      "auto_offer_spaces": "false",
+      "auto_offer_spaces": "true",
       "lat": "51.563867154444836",
       "waiting_list": {
-        "waiting_count": 11
+        "waiting_count": 9
       }
     },
     "Cyclehangar_2185": {
@@ -7613,7 +7612,7 @@
       "street": "PALATINE ROAD",
       "maintenance_key": "H527916",
       "long": "-0.07769243335459919",
-      "waitingList": 5,
+      "waitingList": 6,
       "end_of_life": "14/03/2034",
       "hanger_id": "Cyclehangar_2181",
       "hanger_type_id": "R_RES_STD_Zone_E",
@@ -7621,7 +7620,7 @@
       "auto_offer_spaces": "true",
       "lat": "51.55455565348197",
       "waiting_list": {
-        "waiting_count": 5
+        "waiting_count": 6
       }
     },
     "Cyclehangar_2180": {
@@ -7637,7 +7636,7 @@
       "street": "BROOKE ROAD",
       "maintenance_key": "H527915",
       "long": "-0.06924550943895724",
-      "waitingList": 1,
+      "waitingList": 2,
       "end_of_life": "14/03/2034",
       "hanger_id": "Cyclehangar_2180",
       "hanger_type_id": "R_RES_STD_Zone_E",
@@ -7645,7 +7644,7 @@
       "auto_offer_spaces": "true",
       "lat": "51.56046096836508",
       "waiting_list": {
-        "waiting_count": 1
+        "waiting_count": 2
       }
     },
     "Bikehangar_1150": {
@@ -8186,7 +8185,7 @@
       "street": "ELEANOR ROAD (NORTH)",
       "maintenance_key": " H527892",
       "long": "-0.06001953514814318",
-      "waitingList": 5,
+      "waitingList": 4,
       "end_of_life": "05/02/2034",
       "hanger_id": "Cyclehangar_2156",
       "hanger_type_id": "R_RES_STD_Zone_D",
@@ -8194,7 +8193,7 @@
       "auto_offer_spaces": "true",
       "lat": "51.5443764531467",
       "waiting_list": {
-        "waiting_count": 5
+        "waiting_count": 4
       }
     },
     "Cyclehangar_2151": {
@@ -8531,7 +8530,7 @@
       "street": "ALLEN ROAD",
       "maintenance_key": "H527982",
       "long": "-0.081213483030524",
-      "waitingList": 9,
+      "waitingList": 10,
       "end_of_life": "05/02/2034",
       "hanger_id": "Cyclehangar_2145",
       "hanger_type_id": "R_RES_STD_Zone_M",
@@ -8539,7 +8538,7 @@
       "auto_offer_spaces": "true",
       "lat": "51.555319951545926",
       "waiting_list": {
-        "waiting_count": 9
+        "waiting_count": 10
       }
     },
     "Bikehangar_1126": {
@@ -8997,7 +8996,7 @@
       "street": "DARNLEY ROAD",
       "maintenance_key": "H565656",
       "long": "-0.0518339050663883",
-      "waitingList": 0,
+      "waitingList": 1,
       "end_of_life": "14/03/2034",
       "hanger_id": "Cyclehangar_2179",
       "hanger_type_id": "R_RES_STD_Zone_D",
@@ -9005,7 +9004,7 @@
       "auto_offer_spaces": "true",
       "lat": "51.54423841450924",
       "waiting_list": {
-        "waiting_count": 0
+        "waiting_count": 1
       }
     },
     "Bikehangar_1112": {
@@ -9271,7 +9270,7 @@
       "street": "Gore Road",
       "maintenance_key": "H405421 / ifob 102",
       "long": "-0.045505",
-      "waitingList": 25,
+      "waitingList": 26,
       "end_of_life": "26/06/2028",
       "hanger_id": "Bikehangar_1395",
       "hanger_type_id": "R_RES_STD_Zone_P",
@@ -9279,7 +9278,7 @@
       "auto_offer_spaces": "true",
       "lat": "51.53575",
       "waiting_list": {
-        "waiting_count": 25
+        "waiting_count": 26
       }
     },
     "Bikehangar_1398": {
@@ -9469,15 +9468,15 @@
       "street": "BROOKFIELD ROAD",
       "maintenance_key": "H566713",
       "long": "-0.03513140497958034",
-      "waitingList": 11,
+      "waitingList": 9,
       "end_of_life": "05/02/2034",
       "hanger_id": "Cyclehangar_2162",
       "hanger_type_id": "R_RES_STD_Zone_Q",
       "created": "2024-02-05 12:37:37.0",
-      "auto_offer_spaces": "false",
+      "auto_offer_spaces": "true",
       "lat": "51.54375997031323",
       "waiting_list": {
-        "waiting_count": 11
+        "waiting_count": 9
       }
     },
     "Cyclehangar_2161": {
@@ -9591,7 +9590,7 @@
       "street": "CARYSFORT ROAD",
       "maintenance_key": "H527977",
       "long": "-0.08580996163559007",
-      "waitingList": 8,
+      "waitingList": 7,
       "end_of_life": "05/02/2034",
       "hanger_id": "Cyclehangar_2165",
       "hanger_type_id": "R_RES_STD_Zone_M",
@@ -9599,7 +9598,7 @@
       "auto_offer_spaces": "true",
       "lat": "51.557080179172715",
       "waiting_list": {
-        "waiting_count": 8
+        "waiting_count": 7
       }
     },
     "Cyclehangar_2169": {
@@ -9916,7 +9915,7 @@
       "street": "LORDSHIP ROAD",
       "maintenance_key": "TBC",
       "long": "-0.08433387989398966",
-      "waitingList": 32,
+      "waitingList": 33,
       "end_of_life": "24/06/2030",
       "hanger_id": "Bikehangar_1500",
       "hanger_type_id": "R_RES_STD_Zone_G",
@@ -9924,7 +9923,7 @@
       "auto_offer_spaces": "true",
       "lat": "51.56514447154714",
       "waiting_list": {
-        "waiting_count": 32
+        "waiting_count": 33
       }
     },
     "Bikehangar_1631": {
@@ -10240,7 +10239,7 @@
       "street": "FREMONT STREET",
       "maintenance_key": "TBC",
       "long": "-0.054710617299576825",
-      "waitingList": 41,
+      "waitingList": 40,
       "end_of_life": "27/05/2031",
       "hanger_id": "Bikehangar_1626",
       "hanger_type_id": "R_RES_STD_Zone_D",
@@ -10248,7 +10247,7 @@
       "auto_offer_spaces": "true",
       "lat": "51.53708946840345",
       "waiting_list": {
-        "waiting_count": 41
+        "waiting_count": 40
       }
     },
     "Bikehangar_332": {
@@ -10463,7 +10462,7 @@
       "street": "QUEENS DRIVE",
       "maintenance_key": "H399023",
       "long": "-0.09760571093102044",
-      "waitingList": 26,
+      "waitingList": 27,
       "end_of_life": "24/06/2030",
       "hanger_id": "Bikehangar_1505",
       "hanger_type_id": "R_RES_STD_Zone_G",
@@ -10471,7 +10470,7 @@
       "auto_offer_spaces": "true",
       "lat": "51.56326327412833",
       "waiting_list": {
-        "waiting_count": 26
+        "waiting_count": 27
       }
     },
     "Bikehangar_1612": {
@@ -10638,7 +10637,7 @@
       "street": "LORDSHIP ROAD",
       "maintenance_key": "H399589",
       "long": "-0.08298506281531104",
-      "waitingList": 25,
+      "waitingList": 26,
       "end_of_life": "24/06/2030",
       "hanger_id": "Bikehangar_1501",
       "hanger_type_id": "R_RES_STD_Zone_G",
@@ -10646,7 +10645,7 @@
       "auto_offer_spaces": "true",
       "lat": "51.56352396105078",
       "waiting_list": {
-        "waiting_count": 25
+        "waiting_count": 26
       }
     },
     "Bikehangar_1616": {
@@ -10886,7 +10885,7 @@
       "street": "DE BEAUVOIR CRESCENT",
       "maintenance_key": "TBC",
       "long": "-0.07946942423964742",
-      "waitingList": 23,
+      "waitingList": 22,
       "end_of_life": "24/06/2030",
       "hanger_id": "Bikehangar_1509",
       "hanger_type_id": "R_RES_STD_Zone_H",
@@ -10894,7 +10893,7 @@
       "auto_offer_spaces": "true",
       "lat": "51.537161464281695",
       "waiting_list": {
-        "waiting_count": 23
+        "waiting_count": 22
       }
     },
     "Bikehangar_111": {
@@ -11208,7 +11207,7 @@
       "street": "CLISSOLD CRESCENT",
       "maintenance_key": "02AA66",
       "long": "-0.08609004788482366",
-      "waitingList": 38,
+      "waitingList": 37,
       "end_of_life": "07/03/2032",
       "hanger_id": "Bikehangar_1650",
       "hanger_type_id": "R_RES_STD_Zone_M",
@@ -11216,7 +11215,7 @@
       "auto_offer_spaces": "true",
       "lat": "51.5565817528942",
       "waiting_list": {
-        "waiting_count": 38
+        "waiting_count": 37
       }
     },
     "Bikehangar_1522": {
@@ -11510,7 +11509,7 @@
       "street": "ALBION GROVE",
       "maintenance_key": "02AA75",
       "long": "-0.08192135230231656",
-      "waitingList": 41,
+      "waitingList": 40,
       "end_of_life": "07/03/2032",
       "hanger_id": "Bikehangar_1649",
       "hanger_type_id": "R_RES_STD_Zone_M",
@@ -11518,7 +11517,7 @@
       "auto_offer_spaces": "true",
       "lat": "51.55694440364769",
       "waiting_list": {
-        "waiting_count": 41
+        "waiting_count": 40
       }
     },
     "Bikehangar_1513": {
@@ -11712,7 +11711,7 @@
       "street": "ELLINGFORT ROAD",
       "maintenance_key": "TBC",
       "long": "-0.05671286424257005",
-      "waitingList": 44,
+      "waitingList": 43,
       "end_of_life": "24/06/2030",
       "hanger_id": "Bikehangar_1516",
       "hanger_type_id": "R_RES_STD_Zone_J",
@@ -11720,7 +11719,7 @@
       "auto_offer_spaces": "true",
       "lat": "51.54258832269764",
       "waiting_list": {
-        "waiting_count": 44
+        "waiting_count": 43
       }
     },
     "Bikehangar_1645": {
@@ -11891,7 +11890,7 @@
       "street": "ELDERFIELD ROAD",
       "maintenance_key": "02AA17",
       "long": "-0.046248113666649715",
-      "waitingList": 37,
+      "waitingList": 36,
       "end_of_life": "09/12/2031",
       "hanger_id": "Bikehangar_1640",
       "hanger_type_id": "R_RES_STD_Zone_N",
@@ -11900,7 +11899,7 @@
       "auto_offer_spaces": "true",
       "lat": "51.552233418111456",
       "waiting_list": {
-        "waiting_count": 37
+        "waiting_count": 36
       }
     },
     "Bikehangar_103": {
@@ -11967,7 +11966,7 @@
       "street": "Princess May Road",
       "maintenance_key": "H414017",
       "long": "-0.07725",
-      "waitingList": 53,
+      "waitingList": 52,
       "end_of_life": "26/01/2024",
       "hanger_id": "Bikehangar_104",
       "hanger_type_id": "R_RES_STD_Zone_E",
@@ -11975,7 +11974,7 @@
       "auto_offer_spaces": "true",
       "lat": "51.55289",
       "waiting_list": {
-        "waiting_count": 53
+        "waiting_count": 52
       }
     },
     "Bikehangar_1642": {
@@ -11992,7 +11991,7 @@
       "street": "GLYN ROAD",
       "maintenance_key": "02AA15",
       "long": "-0.04323510816530529",
-      "waitingList": 27,
+      "waitingList": 28,
       "end_of_life": "09/12/2031",
       "hanger_id": "Bikehangar_1642",
       "hanger_type_id": "R_RES_STD_Zone_N",
@@ -12001,7 +12000,7 @@
       "auto_offer_spaces": "true",
       "lat": "51.556665202614084",
       "waiting_list": {
-        "waiting_count": 27
+        "waiting_count": 28
       }
     },
     "Bikehangar_105": {
@@ -12068,7 +12067,7 @@
       "street": "Knebworth Road",
       "maintenance_key": "02AA82",
       "long": "-0.079228",
-      "waitingList": 35,
+      "waitingList": 36,
       "end_of_life": "27/01/2024",
       "hanger_id": "Bikehangar_106",
       "hanger_type_id": "R_RES_STD_Zone_E",
@@ -12076,7 +12075,7 @@
       "auto_offer_spaces": "true",
       "lat": "51.556977",
       "waiting_list": {
-        "waiting_count": 35
+        "waiting_count": 36
       }
     },
     "Bikehangar_1530": {
@@ -12093,7 +12092,7 @@
       "street": "KEMEYS STREET",
       "maintenance_key": "H399565",
       "long": "-0.036918955344333426",
-      "waitingList": 17,
+      "waitingList": 16,
       "end_of_life": "26/06/2030",
       "hanger_id": "Bikehangar_1530",
       "hanger_type_id": "R_RES_STD_Zone_L",
@@ -12101,7 +12100,7 @@
       "auto_offer_spaces": "true",
       "lat": "51.54828531075205",
       "waiting_list": {
-        "waiting_count": 17
+        "waiting_count": 16
       }
     },
     "Bikehangar_107": {
@@ -12193,7 +12192,7 @@
       "street": "CLISSOLD ROAD",
       "maintenance_key": "H395067",
       "long": "-0.08361088659179927",
-      "waitingList": 30,
+      "waitingList": 29,
       "end_of_life": "24/06/2030",
       "hanger_id": "Bikehangar_1532",
       "hanger_type_id": "R_RES_STD_Zone_M",
@@ -12201,7 +12200,7 @@
       "auto_offer_spaces": "true",
       "lat": "51.55732447326696",
       "waiting_list": {
-        "waiting_count": 30
+        "waiting_count": 29
       }
     },
     "Bikehangar_109": {
@@ -12494,7 +12493,7 @@
       "street": "SOMERFORD GROVE",
       "maintenance_key": "H415317",
       "long": "-0.07398207364681753",
-      "waitingList": 7,
+      "waitingList": 8,
       "end_of_life": "23/08/2025",
       "hanger_id": "Bikehangar_305",
       "hanger_type_id": "E_EST_STD_Zone_E",
@@ -12502,7 +12501,7 @@
       "auto_offer_spaces": "true",
       "lat": "51.55438473825242",
       "waiting_list": {
-        "waiting_count": 7
+        "waiting_count": 8
       }
     },
     "Bikehangar_1634": {
@@ -12944,7 +12943,7 @@
       "street": "MANDEVILLE STREET",
       "maintenance_key": "TBC",
       "long": "-0.03801600035598085",
-      "waitingList": 5,
+      "waitingList": 4,
       "end_of_life": "25/06/2030",
       "hanger_id": "Bikehangar_1540",
       "hanger_type_id": "R_RES_STD_Zone_N",
@@ -12952,7 +12951,7 @@
       "auto_offer_spaces": "true",
       "lat": "51.55554481718107",
       "waiting_list": {
-        "waiting_count": 5
+        "waiting_count": 4
       }
     },
     "Bikehangar_1673": {
@@ -13293,7 +13292,7 @@
       "street": "MABLEY STREET",
       "maintenance_key": "02AA65",
       "long": "-0.036376515006736554",
-      "waitingList": 33,
+      "waitingList": 32,
       "end_of_life": "17/03/2032",
       "hanger_id": "Bikehangar_1666",
       "hanger_type_id": "R_RES_STD_Zone_L",
@@ -13301,7 +13300,7 @@
       "auto_offer_spaces": "true",
       "lat": "51.547207121580016",
       "waiting_list": {
-        "waiting_count": 33
+        "waiting_count": 32
       }
     },
     "Bikehangar_1538": {
@@ -13393,7 +13392,7 @@
       "street": "CHIPPENDALE STREET",
       "maintenance_key": "H395114",
       "long": "-0.04419375158923344",
-      "waitingList": 33,
+      "waitingList": 34,
       "end_of_life": "24/06/2030",
       "hanger_id": "Bikehangar_1536",
       "hanger_type_id": "R_RES_STD_Zone_N",
@@ -13401,7 +13400,7 @@
       "auto_offer_spaces": "true",
       "lat": "51.556451456872225",
       "waiting_list": {
-        "waiting_count": 33
+        "waiting_count": 34
       }
     },
     "Bikehangar_1535": {
@@ -13544,7 +13543,7 @@
       "street": "ALCONBURY ROAD",
       "maintenance_key": "H395150",
       "long": "-0.06505405333462022",
-      "waitingList": 37,
+      "waitingList": 38,
       "end_of_life": "25/06/2030",
       "hanger_id": "Bikehangar_1553",
       "hanger_type_id": "R_RES_STD_Zone_R",
@@ -13552,7 +13551,7 @@
       "auto_offer_spaces": "true",
       "lat": "51.5620728768082",
       "waiting_list": {
-        "waiting_count": 37
+        "waiting_count": 38
       }
     },
     "Bikehangar_1660": {
@@ -13594,7 +13593,7 @@
       "street": "BENTHAL ROAD",
       "maintenance_key": "TBC",
       "long": "-0.0658786948207819",
-      "waitingList": 9,
+      "waitingList": 10,
       "end_of_life": "25/06/2030",
       "hanger_id": "Bikehangar_1554",
       "hanger_type_id": "R_RES_STD_Zone_R",
@@ -13602,7 +13601,7 @@
       "auto_offer_spaces": "true",
       "lat": "51.557854807086386",
       "waiting_list": {
-        "waiting_count": 9
+        "waiting_count": 10
       }
     },
     "Bikehangar_1661": {
@@ -13619,7 +13618,7 @@
       "street": "GOULTON ROAD",
       "maintenance_key": "02AA09",
       "long": "-0.05413304761762561",
-      "waitingList": 30,
+      "waitingList": 28,
       "end_of_life": "09/03/2032",
       "hanger_id": "Bikehangar_1661",
       "hanger_type_id": "R_RES_STD_Zone_S",
@@ -13627,7 +13626,7 @@
       "auto_offer_spaces": "true",
       "lat": "51.55251462506217",
       "waiting_list": {
-        "waiting_count": 30
+        "waiting_count": 28
       }
     },
     "Bikehangar_1555": {
@@ -13644,7 +13643,7 @@
       "street": "GELDESTON ROAD",
       "maintenance_key": "TBC",
       "long": "-0.06354402428081585",
-      "waitingList": 31,
+      "waitingList": 32,
       "end_of_life": "25/06/2030",
       "hanger_id": "Bikehangar_1555",
       "hanger_type_id": "R_RES_STD_Zone_R",
@@ -13652,7 +13651,7 @@
       "auto_offer_spaces": "true",
       "lat": "51.5620665402418",
       "waiting_list": {
-        "waiting_count": 31
+        "waiting_count": 32
       }
     },
     "Bikehangar_1662": {
@@ -14639,7 +14638,7 @@
       "street": "CLAPTON SQUARE",
       "maintenance_key": "H394551",
       "long": "-0.05344303599031264",
-      "waitingList": 22,
+      "waitingList": 21,
       "end_of_life": "25/06/2030",
       "hanger_id": "Bikehangar_1558",
       "hanger_type_id": "R_RES_STD_Zone_S",
@@ -14647,7 +14646,7 @@
       "auto_offer_spaces": "true",
       "lat": "51.55124478749465",
       "waiting_list": {
-        "waiting_count": 22
+        "waiting_count": 21
       }
     },
     "Bikehangar_1557": {
@@ -14889,7 +14888,7 @@
       "street": "BAKERS HILL",
       "maintenance_key": "H395021",
       "long": "-0.054132681525430826",
-      "waitingList": 5,
+      "waitingList": 4,
       "end_of_life": "25/06/2030",
       "hanger_id": "Bikehangar_1572",
       "hanger_type_id": "R_RES_STD_Zone_U",
@@ -14897,7 +14896,7 @@
       "auto_offer_spaces": "true",
       "lat": "51.56674526156951",
       "waiting_list": {
-        "waiting_count": 5
+        "waiting_count": 4
       }
     },
     "Bikehangar_1687": {
@@ -14939,7 +14938,7 @@
       "street": "MOUNT PLEASANT LANE",
       "maintenance_key": "H395166",
       "long": "-0.0548572068383919",
-      "waitingList": 15,
+      "waitingList": 16,
       "end_of_life": "25/06/2030",
       "hanger_id": "Bikehangar_1573",
       "hanger_type_id": "R_RES_STD_Zone_U",
@@ -14947,7 +14946,7 @@
       "auto_offer_spaces": "true",
       "lat": "51.56446378128405",
       "waiting_list": {
-        "waiting_count": 15
+        "waiting_count": 16
       }
     },
     "Bikehangar_1680": {
@@ -14964,7 +14963,7 @@
       "street": "HARRINGTON HILL",
       "maintenance_key": "02AA44",
       "long": "-0.054703538220962855",
-      "waitingList": 4,
+      "waitingList": 3,
       "end_of_life": "23/02/2032",
       "hanger_id": "Bikehangar_1680",
       "hanger_type_id": "R_RES_STD_Zone_U",
@@ -14972,7 +14971,7 @@
       "auto_offer_spaces": "true",
       "lat": "51.5678242929263",
       "waiting_list": {
-        "waiting_count": 4
+        "waiting_count": 3
       }
     },
     "Bikehangar_1574": {
@@ -15586,7 +15585,7 @@
       "street": "Gore Road",
       "maintenance_key": "H414938 / ifob 102",
       "long": "-0.04705674098838131",
-      "waitingList": 26,
+      "waitingList": 27,
       "end_of_life": "11/12/2024",
       "hanger_id": "Bikehangar_190",
       "hanger_type_id": "R_RES_STD_Zone_P",
@@ -15594,7 +15593,7 @@
       "auto_offer_spaces": "true",
       "lat": "51.535516239109796",
       "waiting_list": {
-        "waiting_count": 26
+        "waiting_count": 27
       }
     },
     "Bikehangar_396": {
@@ -16135,7 +16134,7 @@
       "street": "ARDLEIGH ROAD",
       "maintenance_key": "TBC",
       "long": "-0.08200791640999228",
-      "waitingList": 28,
+      "waitingList": 27,
       "end_of_life": "01/06/2031",
       "hanger_id": "Bikehangar_1604",
       "hanger_type_id": "R_RES_STD_Zone_H",
@@ -16143,7 +16142,7 @@
       "auto_offer_spaces": "true",
       "lat": "51.54348049771721",
       "waiting_list": {
-        "waiting_count": 28
+        "waiting_count": 27
       }
     },
     "Bikehangar_1607": {
@@ -16334,8 +16333,7 @@
       "spaces": "6",
       "street_usrn": "20900317",
       "street": "DE BEAUVOIR CRESCENT",
-      "actual_end_of_life": "2024-04-18",
-      "maintenance_key": "TBC",
+      "maintenance_key": "H527950",
       "long": "-0.0799486063701238",
       "waitingList": 0,
       "end_of_life": "18/04/2034",
@@ -16386,7 +16384,7 @@
       "street": "OLDFIELD ROAD",
       "maintenance_key": "H565724",
       "long": "-0.07929419862912823",
-      "waitingList": 0,
+      "waitingList": 3,
       "end_of_life": "18/04/2034",
       "hanger_id": "Cyclehangar_2213",
       "hanger_type_id": "R_RES_STD_Zone_F",
@@ -16394,7 +16392,7 @@
       "auto_offer_spaces": "false",
       "lat": "51.55821258873425",
       "waiting_list": {
-        "waiting_count": 0
+        "waiting_count": 3
       }
     },
     "Cyclehangar_2219": {
@@ -16460,15 +16458,15 @@
       "street": "WARNEFORD STREET",
       "maintenance_key": "H527877",
       "long": "-0.05539643931842875",
-      "waitingList": 10,
+      "waitingList": 8,
       "end_of_life": "18/04/2034",
       "hanger_id": "Cyclehangar_2217",
       "hanger_type_id": "R_RES_STD_Zone_F",
       "created": "2024-04-18 14:07:06.0",
-      "auto_offer_spaces": "false",
+      "auto_offer_spaces": "true",
       "lat": "51.53704784178987",
       "waiting_list": {
-        "waiting_count": 10
+        "waiting_count": 8
       }
     },
     "Cyclehangar_2212": {
@@ -16485,15 +16483,15 @@
       "street": "LESWIN ROAD",
       "maintenance_key": "H527914",
       "long": "-0.07291234294260107",
-      "waitingList": 20,
+      "waitingList": 18,
       "end_of_life": "18/04/2034",
       "hanger_id": "Cyclehangar_2212",
       "hanger_type_id": "R_RES_STD_Zone_F",
       "created": "2024-04-18 13:37:42.0",
-      "auto_offer_spaces": "false",
+      "auto_offer_spaces": "true",
       "lat": "51.55829112729941",
       "waiting_list": {
-        "waiting_count": 20
+        "waiting_count": 18
       }
     },
     "Cyclehangar_2211": {
@@ -16510,15 +16508,15 @@
       "street": "BAYSTON ROAD",
       "maintenance_key": "H527895",
       "long": "-0.07182739102358937",
-      "waitingList": 11,
+      "waitingList": 9,
       "end_of_life": "18/04/2034",
       "hanger_id": "Cyclehangar_2211",
       "hanger_type_id": "R_RES_STD_Zone_F",
       "created": "2024-04-18 13:36:20.0",
-      "auto_offer_spaces": "false",
+      "auto_offer_spaces": "true",
       "lat": "51.55872943774651",
       "waiting_list": {
-        "waiting_count": 11
+        "waiting_count": 9
       }
     },
     "Cyclehangar_2210": {
@@ -16534,15 +16532,15 @@
       "street": "ORIEL ROAD",
       "maintenance_key": "H565705",
       "long": "-0.038528014103434316",
-      "waitingList": 9,
+      "waitingList": 6,
       "end_of_life": "18/04/2034",
       "hanger_id": "Cyclehangar_2210",
       "hanger_type_id": "R_RES_STD_Zone_F",
       "created": "2024-04-18 13:34:39.0",
-      "auto_offer_spaces": "false",
+      "auto_offer_spaces": "true",
       "lat": "51.54658294788709",
       "waiting_list": {
-        "waiting_count": 9
+        "waiting_count": 6
       }
     },
     "Cyclehangar_2010": {
@@ -16707,7 +16705,7 @@
       "street": "ALCONBURY ROAD",
       "maintenance_key": "H528025",
       "long": "-0.06439769274305718",
-      "waitingList": 25,
+      "waitingList": 26,
       "end_of_life": "21/09/2033",
       "hanger_id": "Cyclehangar_2017",
       "hanger_type_id": "R_RES_STD_Zone_R",
@@ -16715,7 +16713,7 @@
       "auto_offer_spaces": "true",
       "lat": "51.56139433052738",
       "waiting_list": {
-        "waiting_count": 25
+        "waiting_count": 26
       }
     },
     "Cyclehangar_2018": {
@@ -16878,7 +16876,7 @@
       "street": "RIVERSIDE CLOSE",
       "maintenance_key": "H565763",
       "long": "-0.04850192457874414",
-      "waitingList": 0,
+      "waitingList": 2,
       "end_of_life": "14/03/2034",
       "hanger_id": "Cyclehangar_2202",
       "hanger_type_id": "R_RES_STD_Zone_U",
@@ -16886,7 +16884,7 @@
       "auto_offer_spaces": "true",
       "lat": "51.564599451892434",
       "waiting_list": {
-        "waiting_count": 0
+        "waiting_count": 2
       }
     },
     "Bikehangar_721": {
@@ -17026,15 +17024,15 @@
       "street": "SWINNERTON STREET",
       "maintenance_key": "H565702",
       "long": "-0.03518786221192727",
-      "waitingList": 10,
+      "waitingList": 8,
       "end_of_life": "18/04/2034",
       "hanger_id": "Cyclehangar_2209",
       "hanger_type_id": "R_RES_STD_Zone_F",
       "created": "2024-04-18 13:32:37.0",
-      "auto_offer_spaces": "false",
+      "auto_offer_spaces": "true",
       "lat": "51.547185870110894",
       "waiting_list": {
-        "waiting_count": 10
+        "waiting_count": 8
       }
     },
     "Bikehangar_722": {
@@ -17076,15 +17074,15 @@
       "street": "BENN STREET",
       "maintenance_key": "H562814",
       "long": "-0.034894682366882535",
-      "waitingList": 9,
+      "waitingList": 7,
       "end_of_life": "18/04/2034",
       "hanger_id": "Cyclehangar_2208",
       "hanger_type_id": "R_RES_STD_Zone_F",
       "created": "2024-04-18 13:31:19.0",
-      "auto_offer_spaces": "false",
+      "auto_offer_spaces": "true",
       "lat": "51.54572374993009",
       "waiting_list": {
-        "waiting_count": 9
+        "waiting_count": 7
       }
     },
     "Bikehangar_723": {
@@ -17343,7 +17341,7 @@
       "street": "BENTHAL ROAD",
       "maintenance_key": "H528027",
       "long": "-0.06688035542464377",
-      "waitingList": 11,
+      "waitingList": 12,
       "end_of_life": "21/09/2033",
       "hanger_id": "Cyclehangar_2006",
       "hanger_type_id": "R_RES_STD_Zone_R",
@@ -17351,7 +17349,7 @@
       "auto_offer_spaces": "true",
       "lat": "51.55974646238522",
       "waiting_list": {
-        "waiting_count": 11
+        "waiting_count": 12
       }
     },
     "Cyclehangar_2007": {
@@ -17391,7 +17389,7 @@
       "street": "MABLEY STREET",
       "maintenance_key": "H527961",
       "long": "-0.03635807386098122",
-      "waitingList": 16,
+      "waitingList": 15,
       "end_of_life": "21/09/2033",
       "hanger_id": "Cyclehangar_2008",
       "hanger_type_id": "R_RES_STD_Zone_L",
@@ -17399,7 +17397,7 @@
       "auto_offer_spaces": "true",
       "lat": "51.5471739961543",
       "waiting_list": {
-        "waiting_count": 16
+        "waiting_count": 15
       }
     },
     "Cyclehangar_2009": {
@@ -17440,7 +17438,7 @@
       "street": "Frampton Park Road",
       "maintenance_key": "H402378 / iFob 67",
       "long": "-0.050822",
-      "waitingList": 15,
+      "waitingList": 14,
       "end_of_life": "31/10/2026",
       "hanger_id": "Bikehangar_719",
       "hanger_type_id": "E_EST_STD_Zone_D",
@@ -17448,7 +17446,7 @@
       "auto_offer_spaces": "true",
       "lat": "51.543589",
       "waiting_list": {
-        "waiting_count": 15
+        "waiting_count": 14
       }
     },
     "Bikehangar_977": {
@@ -18064,7 +18062,7 @@
       "street": "CHESHOLM ROAD",
       "maintenance_key": "TBC",
       "long": "-0.07748084239787545",
-      "waitingList": 35,
+      "waitingList": 34,
       "end_of_life": "02/01/2030",
       "hanger_id": "Bikehangar_H1422",
       "hanger_type_id": "R_RES_STD_Zone_E",
@@ -18072,7 +18070,7 @@
       "auto_offer_spaces": "true",
       "lat": "51.55938817886542",
       "waiting_list": {
-        "waiting_count": 35
+        "waiting_count": 34
       }
     },
     "Bikehangar_1019": {
@@ -18138,7 +18136,7 @@
       "street": "QUEEN ELIZABETHS WALK",
       "maintenance_key": "AA47 / ifob 81",
       "long": "-0.08773942610858398",
-      "waitingList": 18,
+      "waitingList": 19,
       "end_of_life": "02/01/2030",
       "hanger_id": "Bikehangar_H1424",
       "hanger_type_id": "R_RES_STD_Zone_G",
@@ -18146,7 +18144,7 @@
       "auto_offer_spaces": "true",
       "lat": "51.56529934415664",
       "waiting_list": {
-        "waiting_count": 18
+        "waiting_count": 19
       }
     },
     "Bikehangar_H1427": {
@@ -18338,7 +18336,7 @@
       "street": "JARROW WAY",
       "maintenance_key": "H403393 / ifob 95",
       "long": "-0.032951318806453855",
-      "waitingList": 2,
+      "waitingList": 3,
       "end_of_life": "26/08/2027",
       "hanger_id": "Bikehangar_1022",
       "hanger_type_id": "E_EST_STD_Zone_N",
@@ -18346,7 +18344,7 @@
       "auto_offer_spaces": "true",
       "lat": "51.552987475687814",
       "waiting_list": {
-        "waiting_count": 2
+        "waiting_count": 3
       }
     },
     "Bikehangar_1024": {
@@ -18487,7 +18485,7 @@
       "street": "Mildenhall Road",
       "maintenance_key": "H403286 / ifob 97",
       "long": "-0.048099",
-      "waitingList": 26,
+      "waitingList": 25,
       "end_of_life": "26/03/2027",
       "hanger_id": "Bikehangar_983",
       "hanger_type_id": "R_RES_STD_Zone_N",
@@ -18495,7 +18493,7 @@
       "auto_offer_spaces": "true",
       "lat": "51.5574636",
       "waiting_list": {
-        "waiting_count": 26
+        "waiting_count": 25
       }
     },
     "Bikehangar_982": {
@@ -18587,7 +18585,7 @@
       "street": "ORSMAN ROAD",
       "maintenance_key": "H403345 ifob 78",
       "long": "-0.07959424252831582",
-      "waitingList": 5,
+      "waitingList": 4,
       "end_of_life": "15/07/2027",
       "hanger_id": "Bikehangar_987",
       "hanger_type_id": "R_RES_STD_Zone_F",
@@ -18595,7 +18593,7 @@
       "auto_offer_spaces": "true",
       "lat": "51.53634237432124",
       "waiting_list": {
-        "waiting_count": 5
+        "waiting_count": 4
       }
     },
     "Bikehangar_986": {
@@ -18762,7 +18760,7 @@
       "street": "Lawley Street",
       "maintenance_key": "H403294 / ifob 96",
       "long": "-0.049168915",
-      "waitingList": 36,
+      "waitingList": 35,
       "end_of_life": "26/03/2027",
       "hanger_id": "Bikehangar_980",
       "hanger_type_id": "R_RES_STD_Zone_N",
@@ -18770,7 +18768,7 @@
       "auto_offer_spaces": "true",
       "lat": "51.55503501",
       "waiting_list": {
-        "waiting_count": 36
+        "waiting_count": 35
       }
     },
     "Bikehangar_H1438": {
@@ -18937,7 +18935,7 @@
       "street": "LORDSHIP TERRACE",
       "maintenance_key": "H402375 / ifob 81",
       "long": "-0.08256291477016475",
-      "waitingList": 1,
+      "waitingList": 0,
       "end_of_life": "05/11/2026",
       "hanger_id": "Bikehangar_750",
       "hanger_type_id": "E_EST_STD_Zone_M",
@@ -18945,7 +18943,7 @@
       "auto_offer_spaces": "true",
       "lat": "51.56276404871619",
       "waiting_list": {
-        "waiting_count": 1
+        "waiting_count": 0
       }
     },
     "Cyclehangar_2232": {
@@ -19207,7 +19205,7 @@
       "street": "ADLEY STREET",
       "maintenance_key": "H528007",
       "long": "-0.03542775992829661",
-      "waitingList": 6,
+      "waitingList": 7,
       "end_of_life": "18/04/2034",
       "hanger_id": "Cyclehangar_2220",
       "hanger_type_id": "R_RES_STD_Zone_F",
@@ -19215,7 +19213,7 @@
       "auto_offer_spaces": "false",
       "lat": "51.551040025396276",
       "waiting_list": {
-        "waiting_count": 6
+        "waiting_count": 7
       }
     },
     "Cyclehangar_2221": {
@@ -19306,7 +19304,7 @@
       "street": "SOUTHWOLD ROAD",
       "maintenance_key": "H408654/ ifob 109",
       "long": "-0.049272467543659104",
-      "waitingList": 23,
+      "waitingList": 22,
       "end_of_life": "12/09/2029",
       "hanger_id": "Bikehangar_H1419",
       "hanger_type_id": "R_RES_STD_Zone_U",
@@ -19314,7 +19312,7 @@
       "auto_offer_spaces": "true",
       "lat": "51.56316765254954",
       "waiting_list": {
-        "waiting_count": 23
+        "waiting_count": 22
       }
     },
     "Bikehangar_H1418": {
@@ -19380,7 +19378,7 @@
       "street": "BARRETTS GROVE",
       "maintenance_key": "H566147",
       "long": "-0.07707254326672341",
-      "waitingList": 0,
+      "waitingList": 1,
       "end_of_life": "18/04/2034",
       "hanger_id": "Cyclehangar_2228",
       "hanger_type_id": "R_RES_STD_Zone_F",
@@ -19388,7 +19386,7 @@
       "auto_offer_spaces": "false",
       "lat": "51.552195076485134",
       "waiting_list": {
-        "waiting_count": 0
+        "waiting_count": 1
       }
     },
     "Bikehangar_H1417": {
@@ -19404,7 +19402,7 @@
       "street": "NORCOTT ROAD",
       "maintenance_key": "H408650/ ifob 104",
       "long": "-0.06547130652234046",
-      "waitingList": 38,
+      "waitingList": 39,
       "end_of_life": "11/09/2029",
       "hanger_id": "Bikehangar_H1417",
       "hanger_type_id": "R_RES_STD_Zone_R",
@@ -19412,7 +19410,7 @@
       "auto_offer_spaces": "true",
       "lat": "51.56134816927886",
       "waiting_list": {
-        "waiting_count": 38
+        "waiting_count": 39
       }
     },
     "Bikehangar_746": {
@@ -19600,7 +19598,7 @@
       "street": "MAYOLA ROAD",
       "maintenance_key": "H527995",
       "long": "-0.04864169318366862",
-      "waitingList": 2,
+      "waitingList": 4,
       "end_of_life": "18/04/2034",
       "hanger_id": "Cyclehangar_2224",
       "hanger_type_id": "R_RES_STD_Zone_F",
@@ -19608,7 +19606,7 @@
       "auto_offer_spaces": "false",
       "lat": "51.55572696150318",
       "waiting_list": {
-        "waiting_count": 2
+        "waiting_count": 4
       }
     },
     "Bikehangar_H1413": {
@@ -19745,15 +19743,15 @@
       "street": "RICHMOND ROAD",
       "maintenance_key": "H562776",
       "long": "-0.05882045582001183",
-      "waitingList": 14,
+      "waitingList": 8,
       "end_of_life": "18/04/2034",
       "hanger_id": "Cyclehangar_2227",
       "hanger_type_id": "R_RES_STD_Zone_F",
       "created": "2024-04-18 14:24:23.0",
-      "auto_offer_spaces": "false",
+      "auto_offer_spaces": "true",
       "lat": "51.54351100579319",
       "waiting_list": {
-        "waiting_count": 14
+        "waiting_count": 8
       }
     },
     "Bikehangar_H1410": {
@@ -21212,7 +21210,7 @@
       "street": "BENTHAL ROAD",
       "maintenance_key": "H528028",
       "long": "-0.06758990817178301",
-      "waitingList": 16,
+      "waitingList": 17,
       "end_of_life": "23/10/2033",
       "hanger_id": "Cyclehangar_2083",
       "hanger_type_id": "R_RES_STD_Zone_R",
@@ -21220,7 +21218,7 @@
       "auto_offer_spaces": "true",
       "lat": "51.56097320742626",
       "waiting_list": {
-        "waiting_count": 16
+        "waiting_count": 17
       }
     },
     "Bikehangar_1464": {
@@ -21291,7 +21289,7 @@
       "hanger_id": "Cyclehangar_2082",
       "hanger_type_id": "R_RES_STD_Zone_R",
       "created": "2023-10-23 16:44:27.0",
-      "auto_offer_spaces": "false",
+      "auto_offer_spaces": "true",
       "lat": "51.56124887879895",
       "waiting_list": {
         "waiting_count": 13
@@ -21529,7 +21527,7 @@
       "street": "GRAYLING ROAD",
       "maintenance_key": "H527923",
       "long": "-0.08309919966563939",
-      "waitingList": 6,
+      "waitingList": 7,
       "end_of_life": "23/10/2033",
       "hanger_id": "Cyclehangar_2073",
       "hanger_type_id": "R_RES_STD_Zone_G",
@@ -21537,7 +21535,7 @@
       "auto_offer_spaces": "true",
       "lat": "51.565095864675754",
       "waiting_list": {
-        "waiting_count": 6
+        "waiting_count": 7
       }
     },
     "Cyclehangar_2074": {
@@ -21577,7 +21575,7 @@
       "street": "PRINCESS MAY ROAD",
       "maintenance_key": "H527898",
       "long": "-0.0772734050462418",
-      "waitingList": 20,
+      "waitingList": 19,
       "end_of_life": "23/10/2033",
       "hanger_id": "Cyclehangar_2075",
       "hanger_type_id": "R_RES_STD_Zone_E",
@@ -21585,7 +21583,7 @@
       "auto_offer_spaces": "true",
       "lat": "51.55288834745227",
       "waiting_list": {
-        "waiting_count": 20
+        "waiting_count": 19
       }
     },
     "Cyclehangar_2076": {
@@ -21701,7 +21699,7 @@
       "street": "TYSSEN ROAD",
       "maintenance_key": "TBC",
       "long": "-0.07335314952888439",
-      "waitingList": 44,
+      "waitingList": 42,
       "end_of_life": "24/06/2030",
       "hanger_id": "Bikehangar_1490",
       "hanger_type_id": "R_RES_STD_Zone_E",
@@ -21709,7 +21707,7 @@
       "auto_offer_spaces": "true",
       "lat": "51.55927353222154",
       "waiting_list": {
-        "waiting_count": 44
+        "waiting_count": 42
       }
     },
     "Cyclehangar_2070": {
@@ -21849,7 +21847,7 @@
       "street": "GORE ROAD",
       "maintenance_key": "H527972",
       "long": "-0.047591033906286384",
-      "waitingList": 15,
+      "waitingList": 16,
       "end_of_life": "09/01/2034",
       "hanger_id": "Cyclehangar_2071",
       "hanger_type_id": "R_RES_STD_Zone_P",
@@ -21857,7 +21855,7 @@
       "auto_offer_spaces": "true",
       "lat": "51.535573042174434",
       "waiting_list": {
-        "waiting_count": 15
+        "waiting_count": 16
       }
     },
     "Bikehangar_1496": {
@@ -21973,7 +21971,7 @@
       "street": "THISTLEWAITE ROAD",
       "maintenance_key": "H527991",
       "long": "-0.0534711563514918",
-      "waitingList": 10,
+      "waitingList": 11,
       "end_of_life": "23/10/2033",
       "hanger_id": "Cyclehangar_2068",
       "hanger_type_id": "R_RES_STD_Zone_N",
@@ -21981,7 +21979,7 @@
       "auto_offer_spaces": "true",
       "lat": "51.558077560092926",
       "waiting_list": {
-        "waiting_count": 10
+        "waiting_count": 11
       }
     },
     "Cyclehangar_2069": {
@@ -22339,7 +22337,7 @@
       "street": "MILDENHALL ROAD",
       "maintenance_key": "H528000",
       "long": "-0.04899317056253949",
-      "waitingList": 6,
+      "waitingList": 5,
       "end_of_life": "23/10/2033",
       "hanger_id": "Cyclehangar_2060",
       "hanger_type_id": "R_RES_STD_Zone_N",
@@ -22347,7 +22345,7 @@
       "auto_offer_spaces": "true",
       "lat": "51.55739929405135",
       "waiting_list": {
-        "waiting_count": 6
+        "waiting_count": 5
       }
     },
     "Bikehangar_1486": {
@@ -22637,7 +22635,7 @@
       "street": "Brookfield Road",
       "maintenance_key": "H403197 / ifob 103",
       "long": "-0.03507324956271418",
-      "waitingList": 39,
+      "waitingList": 38,
       "end_of_life": "25/12/2026",
       "hanger_id": "Bikehangar_905",
       "hanger_type_id": "R_RES_STD_Zone_Q",
@@ -22645,7 +22643,7 @@
       "auto_offer_spaces": "true",
       "lat": "51.543790300755916",
       "waiting_list": {
-        "waiting_count": 39
+        "waiting_count": 38
       }
     },
     "Cyclehangar_2054": {
@@ -22759,7 +22757,7 @@
       "street": "WILBERFORCE ROAD",
       "maintenance_key": "H527943",
       "long": "-0.09846358692396961",
-      "waitingList": 12,
+      "waitingList": 13,
       "end_of_life": "23/10/2033",
       "hanger_id": "Cyclehangar_2056",
       "hanger_type_id": "R_RES_STD_Zone_G2",
@@ -22767,7 +22765,7 @@
       "auto_offer_spaces": "true",
       "lat": "51.56256271725695",
       "waiting_list": {
-        "waiting_count": 12
+        "waiting_count": 13
       }
     },
     "Bikehangar_908": {
@@ -23010,7 +23008,7 @@
       "hanger_id": "Cyclehangar_2048",
       "hanger_type_id": "E_EST_STD_Zone_P",
       "created": "2023-10-23 18:09:45.0",
-      "auto_offer_spaces": "false",
+      "auto_offer_spaces": "true",
       "lat": "51.53963213369809",
       "waiting_list": {
         "waiting_count": 0
@@ -23029,7 +23027,7 @@
       "street": "SWINNERTON STREET",
       "maintenance_key": "H527966",
       "long": "-0.0352168481740307",
-      "waitingList": 4,
+      "waitingList": 3,
       "end_of_life": "09/02/2034",
       "hanger_id": "Cyclehangar_2043",
       "hanger_type_id": "E_EST_STD_Zone_L",
@@ -23037,7 +23035,7 @@
       "auto_offer_spaces": "true",
       "lat": "51.54762929362613",
       "waiting_list": {
-        "waiting_count": 4
+        "waiting_count": 3
       }
     },
     "Cyclehangar_2042": {
@@ -23738,7 +23736,7 @@
       "street": "FREMONT STREET",
       "maintenance_key": "H527889",
       "long": "-0.054654464212347875",
-      "waitingList": 25,
+      "waitingList": 24,
       "end_of_life": "21/09/2033",
       "hanger_id": "Cyclehangar_2021",
       "hanger_type_id": "R_RES_STD_Zone_D",
@@ -23746,7 +23744,7 @@
       "auto_offer_spaces": "true",
       "lat": "51.53729177242491",
       "waiting_list": {
-        "waiting_count": 25
+        "waiting_count": 24
       }
     },
     "Cyclehangar_2020": {
